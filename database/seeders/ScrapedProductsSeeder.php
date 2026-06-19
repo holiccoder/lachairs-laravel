@@ -57,13 +57,18 @@ class ScrapedProductsSeeder extends Seeder
      * @param  array<int, string>  $only  Restrict to a subset of JSON
      *                                    filenames (without extension).
      *                                    Empty array = import everything.
+     * @param  bool  $skipExisting  When true, leave products that already exist
+     *                              (matched by slug) untouched instead of
+     *                              updating them. The existence check runs
+     *                              before any image download.
      * @return array{imported: int, deleted: int, skipped: int}
      */
     public function importDirectory(
         string $directory,
         int &$categoriesImported = 0,
         ?string $categorySlug = null,
-        array $only = []
+        array $only = [],
+        bool $skipExisting = false
     ): array {
         $this->bootPaths();
 
@@ -116,6 +121,15 @@ class ScrapedProductsSeeder extends Seeder
             $titleSlug = Str::slug($cleanTitle);
             if ($titleSlug === '') {
                 $titleSlug = $slug;
+            }
+
+            // In skip mode, bail before downloading images if a product with
+            // this slug already exists — re-imports neither overwrite the row
+            // nor re-fetch its images.
+            if ($skipExisting && Product::where('slug', $titleSlug)->exists()) {
+                $this->command?->info("  Skipping existing: {$cleanTitle}");
+                $skipped++;
+                continue;
             }
 
             $productImageDir = $this->publicImagesRoot.DIRECTORY_SEPARATOR.$titleSlug;

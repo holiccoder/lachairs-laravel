@@ -16,18 +16,22 @@ use Illuminate\Support\Facades\File;
  * to send a directory's products into a different category — handy when
  * the source folder name doesn't line up with where products belong.
  * Use --only to restrict to specific JSON filenames (without .json).
+ * Use --skip-existing to leave already-imported products (matched by slug)
+ * untouched instead of updating them.
  *
  * Examples:
  *   php artisan products:import resin-cross-back-chairs
  *   php artisan products:import resin-cross-back-chairs wood-cross-back-chairs
  *   php artisan products:import bamboo-chairs --category=bamboo-folding-chairs --only=bamboo-folding-chair-stick-back
+ *   php artisan products:import kids-chairs-and-tables --skip-existing
  */
 class ImportScrapedProducts extends Command
 {
     protected $signature = 'products:import
         {slug* : One or more directory slugs under scripts/output/}
         {--category= : Target category slug (overrides the directory name; applies to every listed directory)}
-        {--only=* : Restrict to specific JSON filenames without the .json extension}';
+        {--only=* : Restrict to specific JSON filenames without the .json extension}
+        {--skip-existing : Skip products that already exist (matched by slug) instead of updating them}';
 
     protected $description = 'Import scraped products from specific scripts/output/<slug>/ directories into matching categories.';
 
@@ -36,6 +40,7 @@ class ImportScrapedProducts extends Command
         $slugs = (array) $this->argument('slug');
         $categoryOverride = $this->option('category') ?: null;
         $only = (array) $this->option('only');
+        $skipExisting = (bool) $this->option('skip-existing');
         $sourceRoot = base_path('scripts/output');
 
         $seeder = new ScrapedProductsSeeder();
@@ -56,7 +61,7 @@ class ImportScrapedProducts extends Command
                 continue;
             }
 
-            $stats = $seeder->importDirectory($directory, $categoriesImported, $categoryOverride, $only);
+            $stats = $seeder->importDirectory($directory, $categoriesImported, $categoryOverride, $only, $skipExisting);
             $totalImported += $stats['imported'];
             $totalDeleted += $stats['deleted'];
             $totalSkipped += $stats['skipped'];
