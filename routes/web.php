@@ -43,14 +43,16 @@ Route::get('/', function () {
         ->orderBy('name')
         ->get()
         ->map(function (ProductCategory $c) {
-            // Prefer the curated thumbnail override; otherwise pick a random
+            // Prefer the curated thumbnail override; otherwise pick a stable
             // product image from anywhere in the category subtree. Querying
             // via the categories() M2M pivot (instead of the primary FK
             // alone) means a category that's only populated by cross-listed
             // products — e.g. Kids Chairs & Tables, where every kid product
             // primarily lives in another category — still gets a real
-            // thumbnail rather than the SVG fallback. inRandomOrder() also
-            // gives the home page a fresh face on each visit.
+            // thumbnail rather than the SVG fallback. orderBy('products.id')
+            // keeps the chosen image stable across page loads (the homepage
+            // would otherwise reshuffle on every visit, defeating browser
+            // and CDN caching of the category tiles).
             if ($c->thumbnail) {
                 $thumbnail = $c->thumbnail;
             } else {
@@ -58,7 +60,7 @@ Route::get('/', function () {
                 $thumbnail = \App\Models\Product::query()
                     ->whereHas('categories', fn ($q) => $q->whereIn('product_categories.id', $subtreeIds))
                     ->whereNotNull('image')
-                    ->inRandomOrder()
+                    ->orderBy('products.id')
                     ->value('image');
             }
 
