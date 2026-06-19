@@ -1,0 +1,60 @@
+{
+  "title": "Kid's Vineyard Estate Cross Back Chair - Pecan",
+  "sku": "KXBC4VE-PC",
+  "brand": "Titan Event Furniture™",
+  "price": "$55.99",
+  "features": [],
+  "specifications": {
+    "Free Shipping Deal Type": "Free Shipping on Tables and Chairs Over $5k, Free Shipping on 50 or more",
+    "Can ship FedEx?": "Yes",
+    "Country of Manufacture": "China",
+    "Brand": "Titan Event Furniture™",
+    "Commercial-Grade?": "Yes",
+    "Overall Height": "26''",
+    "Overall Width": "16''",
+    "Overall Length / Depth": "14''",
+    "Seat Size": "12.6'' W x 14'' D",
+    "Ships Assembled?": "No",
+    "Has Arms": "No",
+    "Item Weight": "10 lbs.",
+    "Weight Capacity": "550 lbs.",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "Pecan",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-4.jpg",
+    "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-5.jpg",
+    "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-2.jpg",
+    "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-1.jpg",
+    "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-3.jpg",
+    "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-4_1.jpg",
+    "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-5_1.jpg"
+  ],
+  "colors": [
+    {
+      "label": "Pecan",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/p/e/pecan_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-4_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-5_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-2_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-3_1.jpg"
+      ]
+    },
+    {
+      "label": "Limewashed Pecan",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/l/i/limewashed-pecan.jpg",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-lw-4.jpg",
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-lw-2.jpg",
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-lw-1.jpg",
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-lw-5.jpg",
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-lw-3.jpg",
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-4_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/k/x/kxbc4ve-pc-5_1.jpg"
+      ]
+    }
+  ]
+}
