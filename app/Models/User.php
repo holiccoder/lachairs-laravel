@@ -50,15 +50,15 @@ class User extends Authenticatable
             $combined = trim($first.' '.$last);
 
             if ($combined !== '') {
-                $user->attributes['name'] = $combined;
+                $user->name = $combined;
 
                 return;
             }
 
             // No first/last given but `name` is also blank — fall back so the
             // NOT NULL constraint doesn't fire. Prefer the email local-part.
-            if (blank($user->attributes['name'] ?? null)) {
-                $user->attributes['name'] = $user->email
+            if (blank($user->name)) {
+                $user->name = $user->email
                     ? strstr($user->email.'@', '@', true)
                     : 'User';
             }
