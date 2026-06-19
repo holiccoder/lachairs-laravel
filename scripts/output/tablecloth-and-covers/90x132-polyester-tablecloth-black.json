@@ -1,0 +1,71 @@
+{
+  "title": "90'' x 132'' Polyester Tablecloth - Black",
+  "sku": "PY-90x132-03",
+  "brand": "EventStable",
+  "price": "$14.49",
+  "features": [],
+  "specifications": {
+    "Special Order Item": "No",
+    "Free Shipping Deal Type": "Free Shipping Over $99, Free Shipping on Tables and Chairs Over $5k",
+    "Can ship FedEx?": "Yes",
+    "Country of Manufacture": "China",
+    "Brand": "EventStable",
+    "Material": "100% Polyester",
+    "Commercial-Grade?": "Yes",
+    "Fits Table Size": "Please see our size guide",
+    "Has Seams?": "Seamless",
+    "Hem": "Narrow Rolled Serge",
+    "Laundering": "Please see our laundering recommendations",
+    "Shape": "Rectangle",
+    "Size": "90''x132''",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "Black",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/9/0/90x132-black-tablecloth-1.jpg",
+    "https://www.eventstable.com/media/catalog/product/b/l/black-polyester_6.jpg",
+    "https://www.eventstable.com/media/catalog/product/9/0/90x132-black-tablecloth-1_1.jpg",
+    "https://www.eventstable.com/media/catalog/product/9/0/90x132-tabledrop.png"
+  ],
+  "colors": [
+    {
+      "label": "Black",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/b/l/black.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132-black-tablecloth-1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132-tabledrop.png"
+      ]
+    },
+    {
+      "label": "Ivory",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/i/v/ivoryy.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132-ivory-tablecloth-1.jpg",
+        "https://www.eventstable.com/media/catalog/product/i/v/ivory-polyester_6.jpg",
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132_2809_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132-black-tablecloth-1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132-tabledrop.png"
+      ]
+    },
+    {
+      "label": "White",
+      "swatchImage": "#ffffff",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132-whute-tablecloth-1.jpg",
+        "https://www.eventstable.com/media/catalog/product/w/h/white-polyester_6.jpg",
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132-black-tablecloth-1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132-tabledrop.png"
+      ]
+    },
+    {
+      "label": "Navy",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/n/a/navy_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/p/y/py-120r-21-nvy_1.png",
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132-black-tablecloth-1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/9/0/90x132-tabledrop.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "id": 126,
+  "parent_id": 1,
+  "name": "All ",
+  "is_active": true,
+  "position": 2,
+  "level": 1,
+  "product_count": 44,
+  "children_data": [
+    {
+      "id": 127,
+      "parent_id": 126,
+      "name": "Tables",
+      "is_active": true,
+      "position": 1,
+      "level": 2,
+      "product_count": 8,
+      "children_data": [
+        {
+          "id": 128,
+          "parent_id": 127,
+          "name": "Folding Tables",
+          "is_active": true,
+          "position": 1,
+          "level": 3,
+          "product_count": 1,
+          "children_data": [
+            {
+              "id": 129,
+              "parent_id": 128,
+              "name": "Plywood Banquet Table",
+              "is_active": true,
+              "position": 1,
+              "level": 4,
+              "product_count": 1,
+              "children_data": []
+            }
+          ]
+        },
+        {
+          "id": 135,
+          "parent_id": 127,
+          "name": "Plywood Folding Tables",
+          "is_active": true,
+          "position": 2,
+          "level": 3,
+          "product_count": 2,
+          "children_data": [
+            {
+              "id": 136,
+              "parent_id": 135,
+              "name": "Round Wood Folding Tables",
+              "is_active": true,
+              "position": 1,
+              "level": 4,
+              "product_count": 1,
+              "children_data": []
+            },
+            {
+              "id": 140,
+              "parent_id": 135,
+              "name": "Rectangular Banquet",
+              "is_active": true,
+              "position": 2,
+              "level": 4,
+              "product_count": 1,
+              "children_data": []
+            }
+          ]
+        },
+        {
+          "id": 137,
+          "parent_id": 127,
+          "name": "Plastic Folding Tables",
+          "is_active": true,
+          "position": 3,
+          "level": 3,
+          "product_count": 5,
+          "children_data": [
+            {
+              "id": 138,
+              "parent_id": 137,
+              "name": " Plastic Folding Round Tables",
+              "is_active": true,
+              "position": 1,
+              "level": 4,
+              "product_count": 3,
+              "children_data": []
+            },
+            {
+              "id": 142,
+              "parent_id": 137,
+              "name": "Rectangular Plastic Folding Tables",
+              "is_active": true,
+              "position": 2,
+              "level": 4,
+              "product_count": 2,
+              "children_data": []
+            },
+            {
+              "id": 163,
+              "parent_id": 137,
+              "name": "Plastic Table Cloth",
+              "is_active": true,
+              "position": 3,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 164,
+              "parent_id": 137,
+              "name": "Plastic Tables Part & Dollies",
+              "is_active": true,
+              "position": 4,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            }
+          ]
+        },
+        {
+          "id": 165,
+          "parent_id": 127,
+          "name": "Wood Tables",
+          "is_active": true,
+          "position": 4,
+          "level": 3,
+          "product_count": 0,
+          "children_data": [
+            {
+              "id": 166,
+              "parent_id": 165,
+              "name": "Wood Banquet Tables",
+              "is_active": true,
+              "position": 1,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 167,
+              "parent_id": 165,
+              "name": "Wood Table Cloth",
+              "is_active": true,
+              "position": 2,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 168,
+              "parent_id": 165,
+              "name": "Wood Round Tables",
+              "is_active": true,
+              "position": 3,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 169,
+              "parent_id": 165,
+              "name": "Wood Tables Part & Dollies",
+              "is_active": true,
+              "position": 4,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "parent_id": 126,
+      "name": "Chairs",
+      "is_active": true,
+      "position": 2,
+      "level": 2,
+      "product_count": 26,
+      "children_data": [
+        {
+          "id": 131,
+          "parent_id": 130,
+          "name": "Chiavari Chairs",
+          "is_active": true,
+          "position": 1,
+          "level": 3,
+          "product_count": 7,
+          "children_data": [
+            {
+              "id": 132,
+              "parent_id": 131,
+              "name": "Wood Chiavari Chairs",
+              "is_active": true,
+              "position": 1,
+              "level": 4,
+              "product_count": 6,
+              "children_data": []
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "parent_id": 130,
+          "name": "Stacking Chairs",
+          "is_active": true,
+          "position": 2,
+          "level": 3,
+          "product_count": 7,
+          "children_data": [
+            {
+              "id": 134,
+              "parent_id": 133,
+              "name": "Cross Back Chairs",
+              "is_active": true,
+              "position": 1,
+              "level": 4,
+              "product_count": 1,
+              "children_data": []
+            },
+            {
+              "id": 156,
+              "parent_id": 133,
+              "name": "Folding Chairs Cushions & Covers",
+              "is_active": true,
+              "position": 2,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 157,
+              "parent_id": 133,
+              "name": "Folding Chairs Parts & Dollies",
+              "is_active": true,
+              "position": 3,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 158,
+              "parent_id": 133,
+              "name": "Banquet Chairs",
+              "is_active": true,
+              "position": 4,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 159,
+              "parent_id": 133,
+              "name": "Throne Chairs",
+              "is_active": true,
+              "position": 5,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 160,
+              "parent_id": 133,
+              "name": "Stacking Chairs Cushions & Covers",
+              "is_active": true,
+              "position": 6,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 161,
+              "parent_id": 133,
+              "name": "Stacking Chairs Part & Dollies",
+              "is_active": true,
+              "position": 7,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            }
+          ]
+        },
+        {
+          "id": 143,
+          "parent_id": 130,
+          "name": "Folding Chairs",
+          "is_active": true,
+          "position": 3,
+          "level": 3,
+          "product_count": 17,
+          "children_data": [
+            {
+              "id": 144,
+              "parent_id": 143,
+              "name": "Resin Folding Chairs",
+              "is_active": true,
+              "position": 1,
+              "level": 4,
+              "product_count": 4,
+              "children_data": []
+            },
+            {
+              "id": 148,
+              "parent_id": 143,
+              "name": "Wood Folding Chairs",
+              "is_active": true,
+              "position": 2,
+              "level": 4,
+              "product_count": 4,
+              "children_data": []
+            },
+            {
+              "id": 151,
+              "parent_id": 143,
+              "name": "Plastic Folding Chairs",
+              "is_active": true,
+              "position": 3,
+              "level": 4,
+              "product_count": 1,
+              "children_data": []
+            },
+            {
+              "id": 153,
+              "parent_id": 143,
+              "name": "Metal Folding Chairs",
+              "is_active": true,
+              "position": 4,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 154,
+              "parent_id": 143,
+              "name": "Clear Folding Chairs",
+              "is_active": true,
+              "position": 5,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            },
+            {
+              "id": 155,
+              "parent_id": 143,
+              "name": "Bamboo Folding Chairs",
+              "is_active": true,
+              "position": 6,
+              "level": 4,
+              "product_count": 0,
+              "children_data": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "parent_id": 126,
+      "name": "Transportation & Storage",
+      "is_active": true,
+      "position": 3,
+      "level": 2,
+      "product_count": 2,
+      "children_data": []
+    },
+    {
+      "id": 141,
+      "parent_id": 126,
+      "name": "Umbrellas & Tents",
+      "is_active": true,
+      "position": 4,
+      "level": 2,
+      "product_count": 1,
+      "children_data": []
+    },
+    {
+      "id": 145,
+      "parent_id": 126,
+      "name": "Preschool & School",
+      "is_active": true,
+      "position": 5,
+      "level": 2,
+      "product_count": 4,
+      "children_data": [
+        {
+          "id": 146,
+          "parent_id": 145,
+          "name": "Preschool chairs",
+          "is_active": true,
+          "position": 1,
+          "level": 3,
+          "product_count": 4,
+          "children_data": []
+        },
+        {
+          "id": 147,
+          "parent_id": 145,
+          "name": "School chairs",
+          "is_active": true,
+          "position": 2,
+          "level": 3,
+          "product_count": 4,
+          "children_data": []
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "parent_id": 126,
+      "name": "Machine & Articles",
+      "is_active": true,
+      "position": 6,
+      "level": 2,
+      "product_count": 3,
+      "children_data": []
+    },
+    {
+      "id": 150,
+      "parent_id": 126,
+      "name": "Covers & Linens",
+      "is_active": true,
+      "position": 7,
+      "level": 2,
+      "product_count": 1,
+      "children_data": []
+    },
+    {
+      "id": 170,
+      "parent_id": 126,
+      "name": "Stacking Chairs",
+      "is_active": true,
+      "position": 8,
+      "level": 2,
+      "product_count": 0,
+      "children_data": [
+        {
+          "id": 180,
+          "parent_id": 170,
+          "name": "Chiavari Chairs",
+          "is_active": true,
+          "position": 1,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 181,
+          "parent_id": 170,
+          "name": "Cross Back Chairs",
+          "is_active": true,
+          "position": 2,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 182,
+          "parent_id": 170,
+          "name": "Banquet Chairs",
+          "is_active": true,
+          "position": 3,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 183,
+          "parent_id": 170,
+          "name": "Throne Chairs",
+          "is_active": true,
+          "position": 4,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 184,
+          "parent_id": 170,
+          "name": "Stacking Chairs Parts & Dollies",
+          "is_active": true,
+          "position": 5,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 185,
+          "parent_id": 170,
+          "name": "Stacking Chairs Cushions & Covers",
+          "is_active": true,
+          "position": 6,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "parent_id": 126,
+      "name": "Folding Chairs",
+      "is_active": true,
+      "position": 9,
+      "level": 2,
+      "product_count": 0,
+      "children_data": [
+        {
+          "id": 174,
+          "parent_id": 173,
+          "name": "Plastic Folding Chairs",
+          "is_active": true,
+          "position": 1,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 175,
+          "parent_id": 173,
+          "name": "Resin Folding Chairs",
+          "is_active": true,
+          "position": 2,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 176,
+          "parent_id": 173,
+          "name": "Wood Folding Chairs",
+          "is_active": true,
+          "position": 3,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 177,
+          "parent_id": 173,
+          "name": "Bamboo Folding Chairs",
+          "is_active": true,
+          "position": 4,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 179,
+          "parent_id": 173,
+          "name": "Folding Chair Dollies",
+          "is_active": true,
+          "position": 6,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "parent_id": 126,
+      "name": "Wood Tables",
+      "is_active": true,
+      "position": 10,
+      "level": 2,
+      "product_count": 0,
+      "children_data": [
+        {
+          "id": 189,
+          "parent_id": 190,
+          "name": "Wood Tables Parts & Dollies",
+          "is_active": true,
+          "position": 1,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 188,
+          "parent_id": 190,
+          "name": "Wood Round Tables",
+          "is_active": true,
+          "position": 2,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 187,
+          "parent_id": 190,
+          "name": "Wood Banquet Tables",
+          "is_active": true,
+          "position": 3,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 191,
+          "parent_id": 190,
+          "name": "Wood Table Cloth",
+          "is_active": true,
+          "position": 4,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "parent_id": 126,
+      "name": "Plastic Tables",
+      "is_active": true,
+      "position": 11,
+      "level": 2,
+      "product_count": 0,
+      "children_data": [
+        {
+          "id": 186,
+          "parent_id": 192,
+          "name": "Plastic Rectagular Tables",
+          "is_active": true,
+          "position": 1,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 193,
+          "parent_id": 192,
+          "name": "Plastic Tablecloth",
+          "is_active": true,
+          "position": 2,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 194,
+          "parent_id": 192,
+          "name": "Plastic Round Tables",
+          "is_active": true,
+          "position": 3,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        },
+        {
+          "id": 195,
+          "parent_id": 192,
+          "name": "Plastic Tables Parts & Dollies",
+          "is_active": true,
+          "position": 4,
+          "level": 3,
+          "product_count": 0,
+          "children_data": []
+        }
+      ]
+    }
+  ]
+}

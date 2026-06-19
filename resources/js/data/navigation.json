@@ -1,0 +1,223 @@
+{
+  "text": "Categories",
+  "href": "#",
+  "level": 0,
+  "type": "mega-menu",
+  "children": [
+    {
+      "text": "Folding Chairs",
+      "href": "/folding-chairs/",
+      "level": 1,
+      "children": [
+        {
+          "text": "Plastic Folding Chairs",
+          "href": "/plastic-folding-chairs/",
+          "image": "/images/categories/plastic-folding-chairs-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Resin Folding Chairs",
+          "href": "/resin-folding-chairs/",
+          "image": "/images/categories/resin-folding-chairs-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Wood Folding Chairs",
+          "href": "/wood-folding-chairs/",
+          "image": "/images/categories/wood-folding-chairs-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Bamboo Folding Chairs",
+          "href": "/bamboo-folding-chair-stick-back.html",
+          "image": "/images/categories/bamboo-folding-chairs-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Folding Chair Replacement Parts",
+          "href": "/folding-chair-replacement-parts/",
+          "image": "/images/categories/folding-chair-replacement-parts-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Shop more in Folding Chairs",
+          "href": "/folding-chairs/",
+          "level": 2,
+          "type": "view-all-link"
+        }
+      ]
+    },
+    {
+      "text": "Stacking Chairs",
+      "href": "/stacking-chairs/",
+      "level": 1,
+      "children": [
+        {
+          "text": "Chiavari Chairs",
+          "href": "/chiavari-chairs/",
+          "image": "/images/categories/chiavari-chairs-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Cross Back Chairs",
+          "href": "/cross-back-chairs/",
+          "image": "/images/categories/cross-back-chairs-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Banquet Chairs",
+          "href": "/banquet-chairs/",
+          "image": "/images/categories/banquet-chairs-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Ghost Chairs",
+          "href": "/ghost-chairs/",
+          "image": "/images/categories/ghost-chairs-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Throne Chairs",
+          "href": "/throne-chairs/",
+          "image": "/images/categories/throne-chairs-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Metal Stacking Chairs",
+          "href": "/metal-stacking-chairs/",
+          "image": "/images/categories/metal-stacking-chairs-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Resin Stacking Chairs",
+          "href": "/resin-stacking-chairs/",
+          "image": "/images/categories/cafe-vienna-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Stack Chair Dollies",
+          "href": "/stack-chair-dollies/",
+          "image": "/images/categories/stacking-chairs-carts-dollies-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Shop More in Stacking Chairs",
+          "href": "/stacking-chairs/",
+          "level": 2,
+          "type": "view-all-link"
+        }
+      ]
+    },
+    {
+      "text": "Tables",
+      "href": "/folding-tables/",
+      "level": 1,
+      "children": [
+        {
+          "text": "Wood Folding Banquet Tables",
+          "href": "/wood-folding-tables/",
+          "image": "/images/categories/plywood-folding-tables-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Plastic Folding Tables",
+          "href": "/plastic-folding-tables/",
+          "image": "/images/categories/plastic-folding-tables-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Cocktail Tables",
+          "href": "/cocktail-tables/",
+          "image": "/images/categories/cocktail-tables-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Farm Tables",
+          "href": "/farm-tables/",
+          "image": "/images/categories/farm-tables-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Table Carts",
+          "href": "/table-carts/",
+          "image": "/images/categories/table-carts-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Shop all Tables",
+          "href": "/folding-tables/",
+          "level": 2,
+          "type": "view-all-link"
+        }
+      ]
+    },
+    {
+      "text": "Transportation & Storage",
+      "href": "#",
+      "level": 1,
+      "children": [
+        {
+          "text": "Stack Chair Dollies",
+          "href": "/stack-chair-dollies/",
+          "image": "/images/categories/stacking-chairs-carts-dollies-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Table Carts",
+          "href": "/table-carts/",
+          "image": "/images/categories/table-carts-icon.png",
+          "level": 2
+        },
+        {
+          "text": "Shop all Dollies, Carts & Equipment Transport",
+          "href": "/dollies-carts-handtrucks/",
+          "level": 2,
+          "type": "view-all-link"
+        }
+      ]
+    },
+    {
+      "text": "More For Your Event Line",
+      "href": "/view-more/",
+      "level": 1,
+      "children": [
+        {
+          "text": "Bars & Barstools",
+          "href": "/bars-bar-stools/",
+          "image": "/images/categories/bars-barstools.png",
+          "level": 2
+        },
+        {
+          "text": "Kids Furniture",
+          "href": "/kids-furniture-c-699/",
+          "image": "/images/categories/kid-furniture.png",
+          "level": 2
+        },
+        {
+          "text": "Polyester Tablecloths",
+          "href": "/polyester-tablecloths/",
+          "image": "/images/categories/polyester-tablecloths.png",
+          "level": 2
+        },
+        {
+          "text": "Spandex",
+          "href": "/spandex-linens/",
+          "image": "/images/categories/spandex.png",
+          "level": 2
+        },
+        {
+          "text": "Table Skirting",
+          "href": "/table-skirting/",
+          "image": "/images/categories/tabe-skirting.png",
+          "level": 2
+        },
+        {
+          "text": "Event Accessories",
+          "href": "/accessories/",
+          "image": "/images/categories/event-accessories.png",
+          "level": 2
+        }
+      ]
+    }
+  ]
+}

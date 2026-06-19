@@ -1,0 +1,60 @@
+{
+  "title": "Bamboo Folding Chair - Stick Back",
+  "sku": "BFC33",
+  "brand": "Titan Event Furniture™",
+  "price": "$54.99",
+  "features": [
+    "High Quality Bamboo Construction",
+    "Comfortably Curved Back",
+    "Supportive Braces provide extra seat support",
+    "Clear Coated Glossy Finish",
+    "Great for Indoor and Outdoor Use",
+    "Free shipping when you order 50 or more!"
+  ],
+  "specifications": {
+    "UPC": "850004346044",
+    "Free Shipping Deal Type": "Free Shipping on Tables and Chairs Over $5k, Free Shipping on 50 or more",
+    "Can ship FedEx?": "Yes",
+    "Country of Manufacture": "China",
+    "Brand": "Titan Event Furniture™",
+    "Color": "Bamboo",
+    "Material": "Wood",
+    "Commercial-Grade?": "Yes",
+    "Overall Height": "34''",
+    "Overall Width": "18.75''",
+    "Overall Length / Depth": "24''",
+    "Recommended Seating": "1",
+    "Seat Height": "18''",
+    "Seat Size": "14.25'' x 15.5''",
+    "Ships Assembled?": "Yes",
+    "Stackable?": "Yes",
+    "Has Arms": "No",
+    "Item Weight": "10 lbs.",
+    "Weight Capacity": "300 lbs.",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [
+    {
+      "question": "How much weight can this chair hold?",
+      "answer": "The weight capacity is 300 lbs."
+    },
+    {
+      "question": "Which dolly works best for Bamboo Folding Chairs?",
+      "answer": "We recommend our Universal Folding Chair Dolly."
+    },
+    {
+      "question": "Can Bamboo Folding Chairs be used outside?",
+      "answer": "Yes! These chairs are great for outdoor use. We do recommend storing them in a climate-controlled area when they’re not being used."
+    }
+  ],
+  "defaultColor": null,
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/r/c/rcx_chair-312000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/c/rcx_chair-332000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/c/rcx_chair-302000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/c/rcx_chair-322000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/c/rcx_chair-342000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/b/a/bamboo-dims.png"
+  ],
+  "colors": []
+}

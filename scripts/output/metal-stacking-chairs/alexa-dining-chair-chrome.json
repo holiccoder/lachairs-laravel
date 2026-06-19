@@ -1,0 +1,67 @@
+{
+  "title": "Alexa Dining Chair - Chrome",
+  "sku": "ALEXA41SLVR",
+  "brand": "Evianna Collection",
+  "price": "$121.04",
+  "features": [
+    "Stackable and durable, our Alexa Dining Chair features an alluring gold, metal frame that's built with the event industry in mind.",
+    "Polyurethane foam provides a comfortable and removable seat with back support while boasting an elegant shade of white that will blend in seamlessly, no matter the occasion.",
+    "Stackable and durable, our Alexa Dining Chair features an alluring gold or chrome, metal design that's built with the event industry in mind.",
+    "Prepare to the \"wow\" your guests with the one of a kind frame that's meticulously cut to stand out from other venues and competitors.",
+    "Once they're done admiring the unique shape, a special and pleasurable seating experience awaits!",
+    "The Polyurethane foam provides a plus, cozy and comfortable seat with back support that can easily be removed while also boasting an elegant shade of white that will blend in seamlessly - no matter the occasion."
+  ],
+  "specifications": {
+    "Free Shipping Deal Type": "Free Shipping on Tables and Chairs Over $5k, Free Shipping on 50 or more",
+    "Can ship FedEx?": "Yes",
+    "Country of Manufacture": "China",
+    "Brand": "Evianna Collection",
+    "Material": "Steel",
+    "Commercial-Grade?": "Yes",
+    "Overall Height": "36''",
+    "Overall Width": "19''",
+    "Overall Length / Depth": "19''",
+    "Seat Material": "Polyurethane",
+    "Ships Assembled?": "Yes",
+    "Stackable?": "Yes",
+    "Has Arms": "No",
+    "Product Warranty": "3 Year Warranty",
+    "Item Weight": "16 lbs.",
+    "Weight Capacity": "300 lbs.",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "Chrome",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/a/l/alexa41slv-4.jpg",
+    "https://www.eventstable.com/media/catalog/product/a/l/alexa-dining-chair-chrome.jpg",
+    "https://www.eventstable.com/media/catalog/product/a/l/alexa41slv.jpg",
+    "https://www.eventstable.com/media/catalog/product/a/l/alexa41slv-1.jpg",
+    "https://www.eventstable.com/media/catalog/product/a/l/alexa41slv-2.jpg",
+    "https://www.eventstable.com/media/catalog/product/a/l/alexa41slv-3.jpg",
+    "https://www.eventstable.com/media/catalog/product/g/o/gold-alexa-stacking-chair_2.jpg"
+  ],
+  "colors": [
+    {
+      "label": "Chrome",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/c/h/chrome_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/g/o/gold-alexa-stacking-chair_2.jpg",
+        "https://www.eventstable.com/media/catalog/product/h/q/hqdefault_3.jpg"
+      ]
+    },
+    {
+      "label": "Gold",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/g/o/gold_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/a/l/alexa4gd-1.jpg",
+        "https://www.eventstable.com/media/catalog/product/2/4/24_2.png",
+        "https://www.eventstable.com/media/catalog/product/a/l/alexa4gd-2.jpg",
+        "https://www.eventstable.com/media/catalog/product/a/l/alexa4gd-3.jpg",
+        "https://www.eventstable.com/media/catalog/product/a/l/alexa4gd-5.jpg",
+        "https://www.eventstable.com/media/catalog/product/g/o/gold-alexa-stacking-chair_2.jpg",
+        "https://www.eventstable.com/media/catalog/product/h/q/hqdefault_3.jpg"
+      ]
+    }
+  ]
+}

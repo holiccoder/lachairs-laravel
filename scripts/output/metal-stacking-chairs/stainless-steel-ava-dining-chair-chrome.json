@@ -1,0 +1,61 @@
+{
+  "title": "Stainless Steel Ava Dining Chair - Silver",
+  "sku": "AVA41SLVR",
+  "brand": "Evianna Collection",
+  "price": "$163.99",
+  "features": [
+    "Don't let the delicate design fool you - this is one tough dining chair that will stand up after years of use.",
+    "Our Ava Dining Chair features an elegant, stainless steel frame and polyurethane foam for added comfort and support.",
+    "Each Chair stacks up to 4 chairs high and is available in 2 different colors: Chrome and Gold.",
+    "This unique dining option will transform your event venue with a touch of modern sophistication and become a favorite amongst your clients."
+  ],
+  "specifications": {
+    "Free Shipping Deal Type": "Free Shipping on Tables and Chairs Over $5k, Free Shipping on 50 or more",
+    "Can ship FedEx?": "Yes",
+    "Country of Manufacture": "China",
+    "Brand": "Evianna Collection",
+    "Material": "Steel",
+    "Commercial-Grade?": "Yes",
+    "Overall Height": "37''",
+    "Overall Width": "19''",
+    "Overall Length / Depth": "19''",
+    "Seat Height": "17.7''",
+    "Ships Assembled?": "Yes",
+    "Stackable?": "Yes",
+    "Has Arms": "No",
+    "Product Warranty": "3 Year Warranty",
+    "Item Weight": "15 lbs",
+    "Weight Capacity": "300 lbs.",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "Silver",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/a/v/ava41ch_3.png",
+    "https://www.eventstable.com/media/catalog/product/a/v/ava41ch_2.png",
+    "https://www.eventstable.com/media/catalog/product/h/q/hqdefault_6.jpg"
+  ],
+  "colors": [
+    {
+      "label": "Silver",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/s/i/silver_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/a/v/ava41ch_2.png",
+        "https://www.eventstable.com/media/catalog/product/h/q/hqdefault_6.jpg"
+      ]
+    },
+    {
+      "label": "Gold",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/g/o/gold_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/a/v/ava41gld.jpg",
+        "https://www.eventstable.com/media/catalog/product/a/v/ava41gld-1.jpg",
+        "https://www.eventstable.com/media/catalog/product/a/v/ava-lifestyle.png",
+        "https://www.eventstable.com/media/catalog/product/a/v/ava41gld-2.jpg",
+        "https://www.eventstable.com/media/catalog/product/a/v/ava-lifestyle-2.png",
+        "https://www.eventstable.com/media/catalog/product/a/v/ava41ch_2.png",
+        "https://www.eventstable.com/media/catalog/product/h/q/hqdefault_6.jpg"
+      ]
+    }
+  ]
+}

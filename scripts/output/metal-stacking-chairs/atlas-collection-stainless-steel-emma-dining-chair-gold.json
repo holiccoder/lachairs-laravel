@@ -1,0 +1,72 @@
+{
+  "title": "Stainless Steel Emma Dining Chair - Gold",
+  "sku": "EMMA41G",
+  "brand": "Evianna Collection",
+  "price": "$168.49",
+  "features": [
+    "Our Stainless Steel Emma Dining Chair is an original design that is sure to impress prospective clients and guests.",
+    "Constructed from durable Stainless Steel for the event and rental furniture industry and hand crafted to our exact specifications for necessary comfort and allure, you'll be able to depend on the Emma Dining Chair for years to come.",
+    "Additionally, the Emma Chair conveniently stacks 3 chairs high to make your storage and transportation needs a bit easier and convenient.",
+    "Not only is the frame dependable; the plush, polyurethane foam cushion provides a comfortable seating experience that will make even your pickiest cutomers and guests feel like their dining on a cloud.",
+    "The Emma Dining Chair is not just a people pleaser on the eyes, it's good for you too!",
+    "Each Chair conveniently stacks 3 chairs high to make your storage and transportation needs a bit easier and convenient."
+  ],
+  "specifications": {
+    "Can ship FedEx?": "Yes",
+    "Country of Manufacture": "China",
+    "Brand": "Evianna Collection",
+    "Material": "Steel",
+    "Commercial-Grade?": "Yes",
+    "Overall Height": "37''",
+    "Overall Width": "19''",
+    "Overall Length / Depth": "19''",
+    "Seat Height": "17.7''",
+    "Seat Material": "Polyurethane Foam",
+    "Ships Assembled?": "Yes",
+    "Stackable?": "Yes",
+    "Has Arms": "No",
+    "Product Warranty": "3 Year Warranty",
+    "Item Weight": "15 lbs.",
+    "Weight Capacity": "300 lbs.",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "Gold",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/e/m/emma-chair-gold.png",
+    "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_11__1.png",
+    "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_10__1.png",
+    "https://www.eventstable.com/media/catalog/product/e/m/emma-chair-gold_1.png",
+    "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_13_.png",
+    "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_12_.png",
+    "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_11_.png"
+  ],
+  "colors": [
+    {
+      "label": "Silver",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/s/i/silver_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/s/i/silver-emma-emma41slv-main-2.jpg",
+        "https://www.eventstable.com/media/catalog/product/s/i/silver-emma-emma41slv-detail-2.jpg",
+        "https://www.eventstable.com/media/catalog/product/s/i/silver-emma-emma41slv-detail-3.jpg",
+        "https://www.eventstable.com/media/catalog/product/e/m/emma-chair-gold_1.png",
+        "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_13_.png",
+        "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_12_.png",
+        "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_11_.png"
+      ]
+    },
+    {
+      "label": "Gold",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/g/o/gold_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/e/m/emma-chair-gold.png",
+        "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_11__1.png",
+        "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_10__1.png",
+        "https://www.eventstable.com/media/catalog/product/e/m/emma-chair-gold_1.png",
+        "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_13_.png",
+        "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_12_.png",
+        "https://www.eventstable.com/media/catalog/product/m/i/microsoftteams-image_11_.png"
+      ]
+    }
+  ]
+}

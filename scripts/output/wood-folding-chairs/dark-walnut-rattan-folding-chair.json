@@ -1,0 +1,88 @@
+{
+  "title": "Dark Walnut Rattan Folding Chair",
+  "sku": "WFC-C4-SBR-DW",
+  "brand": "CSP",
+  "price": "$74.99",
+  "features": [
+    "The Wood Folding Chair with Rattan Swivel Back is the industry's first true Mid-Century Modern folding chair.",
+    "Featuring a bold 1-inch solid Elmwood frame and a unique articulating backrest that pivots to match your guest's movement, it delivers luxury-tier comfort in a high-capacity, portable design.",
+    "Weight: 11 lbs",
+    "Dimensions: 14.25 × 17.5 × 31 in",
+    "Material: Dark Walnut",
+    "Finish: Walnut with Wood Grain"
+  ],
+  "specifications": {
+    "Special Order Item": "No",
+    "Can ship FedEx?": "Yes",
+    "Brand": "CSP",
+    "Commercial-Grade?": "Yes",
+    "Overall Height": "31''",
+    "Overall Width": "18''",
+    "Overall Length / Depth": "20''",
+    "Seat Height": "17.5''",
+    "Ships Assembled?": "Yes",
+    "Product Warranty": "1 Year Warranty",
+    "Item Weight": "11 lbs",
+    "Static Weight Capacity": "500 lbs.",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [
+    {
+      "question": "Is it safe for silk or lace dresses?",
+      "answer": "Yes. By using resin rattan instead of natural wood fibers, we’ve eliminated the burrs and splinters that typically snag expensive guest attire."
+    },
+    {
+      "question": "How do I transport my Rattan Back Folding Chairs?",
+      "answer": "While they don't stack vertically, they fold beautifully. We recommend our hanging dollies (which hold 12 chairs) or our padded storage bags."
+    }
+  ],
+  "defaultColor": "Dark Walnut",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/r/f/rf-101-dw-1_y1dawuycm5j0rxvj.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/f/rf-101-compare-csp-to-others_nlmh68zwhml7nwva.png",
+    "https://www.eventstable.com/media/catalog/product/r/f/rf-101-raw-3_txtnzkjloobnfnho.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/f/rf-101-raw-1-2_wurcfz9tyq9q0t01.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/f/rf-101-dw1_jelz76o733lwpshq.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/f/rf-101-dw-1_y1dawuycm5j0rxvj_1.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/f/rf-101-compare-csp-to-others_nlmh68zwhml7nwva_1.png"
+  ],
+  "colors": [
+    {
+      "label": "Dark Walnut",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/d/a/dark_walnut_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/r/f/rf-101-dw-1_y1dawuycm5j0rxvj_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/f/rf-101-compare-csp-to-others_nlmh68zwhml7nwva_1.png",
+        "https://www.eventstable.com/media/catalog/product/r/f/rf-101-raw-3_txtnzkjloobnfnho_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/f/rf-101-raw-1-2_wurcfz9tyq9q0t01_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/f/rf-101-dw1_jelz76o733lwpshq_1.jpg"
+      ]
+    },
+    {
+      "label": "Black",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/b/l/black.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/1/2/12-002_1abtkquxg6vcmrve.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/f/rf-101-compare-csp-to-others_nlmh68zwhml7nwva.png",
+        "https://www.eventstable.com/media/catalog/product/1/2/12-005_1ivlykbl5zdpbygb.jpg",
+        "https://www.eventstable.com/media/catalog/product/1/2/12-004_oqqgb3pl5qzzwgum.jpg",
+        "https://www.eventstable.com/media/catalog/product/1/2/12-003_czypbjr6xgfdazgl.jpg",
+        "https://www.eventstable.com/media/catalog/product/1/2/12-001_ano9b54gwgaualiy.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/f/rf-101-part-list_qhf3st44uwzwf3eq.jpg"
+      ]
+    },
+    {
+      "label": "Tinted Raw",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/t/i/tinted-raw-106.png..jpg",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/e/w/ewfc-c5-sbr-trw.jpg",
+        "https://www.eventstable.com/media/catalog/product/e/w/ewfc-c5-sbr-trw_6.jpg",
+        "https://www.eventstable.com/media/catalog/product/e/w/ewfc-c5-sbr-trw_3.jpg",
+        "https://www.eventstable.com/media/catalog/product/e/w/ewfc-c5-sbr-trw_4.jpg",
+        "https://www.eventstable.com/media/catalog/product/e/w/ewfc-c5-sbr-trw_5.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/f/rf-101-dw-1_y1dawuycm5j0rxvj_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/f/rf-101-compare-csp-to-others_nlmh68zwhml7nwva_1.png"
+      ]
+    }
+  ]
+}

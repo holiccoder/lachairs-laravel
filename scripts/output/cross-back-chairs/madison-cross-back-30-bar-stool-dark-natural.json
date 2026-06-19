@@ -1,0 +1,64 @@
+{
+  "title": "Farmhouse Cross Back Bar Stool - Dark Natural",
+  "sku": "XBBS4DNAT",
+  "brand": "Titan Event Furniture™",
+  "price": "$102.99",
+  "features": [
+    "Cross Back Barstool"
+  ],
+  "specifications": {
+    "Free Shipping Deal Type": "Free Shipping on Tables and Chairs Over $5k, Free Shipping on 50 or more",
+    "Can ship FedEx?": "No",
+    "Country of Manufacture": "China",
+    "Brand": "Titan Event Furniture™",
+    "Material": "Wood",
+    "Commercial-Grade?": "Yes",
+    "Overall Height": "46''",
+    "Overall Width": "19''",
+    "Overall Length / Depth": "21''",
+    "Footprint": "19''x 21''",
+    "Seat Height": "30''",
+    "Seat Size": "16'' x 16.25''",
+    "Ships Assembled?": "No",
+    "Has Arms": "No",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "Dark Natural",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-4.jpg",
+    "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-5.jpg",
+    "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-2_1.jpg",
+    "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-1_1.jpg",
+    "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-3_1.jpg",
+    "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat_specs.png",
+    "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-4_1.jpg"
+  ],
+  "colors": [
+    {
+      "label": "Dark Natural",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/d/a/dark_natural.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-4_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-5_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-2_1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-1_1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-3_1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat_specs_1.png"
+      ]
+    },
+    {
+      "label": "Antique Black",
+      "swatchImage": "#000000",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/c/r/crossback-barstool-antique_black.jpeg-6.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/r/crossback-barstool-antique_black.jpeg-5.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/r/crossback-barstool-antique_black.jpeg-3.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/r/crossback-barstool-antique_black.jpeg-1.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/r/crossback-barstool-antique_black.jpeg-4.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/r/crossback-barstool-antique_black.jpeg-7.jpg",
+        "https://www.eventstable.com/media/catalog/product/x/b/xbbs4dnat-4_1.jpg"
+      ]
+    }
+  ]
+}

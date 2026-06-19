@@ -13,13 +13,23 @@ return new class extends Migration
             $table->foreignId('product_category_id')->constrained()->cascadeOnDelete();
             $table->string('name');
             $table->string('slug')->unique();
-            $table->text('description')->nullable();
             $table->string('sku')->unique();
-            $table->decimal('price', 10, 2);
-            $table->integer('stock')->default(0);
-            $table->string('image')->nullable();
+            $table->string('brand')->nullable();
+            $table->decimal('price', 10, 2)->nullable();
+            $table->integer('stock')->default(100);
+            $table->string('image')->nullable();           // primary thumbnail (relative path)
+            $table->json('gallery')->nullable();           // array of image paths
+            $table->text('description')->nullable();       // short summary; may be empty for imports
+            $table->json('features')->nullable();          // bullet list
+            $table->json('specifications')->nullable();    // key/value spec sheet
+            $table->json('faq')->nullable();               // [{question, answer}, ...]
+            $table->string('default_color')->nullable();
+            $table->json('color_variants')->nullable();    // [{label, swatch, gallery[]}]
             $table->boolean('is_active')->default(true);
             $table->timestamps();
+
+            $table->index('brand');
+            $table->index('is_active');
         });
     }
 

@@ -1,0 +1,60 @@
+{
+  "title": "Burlap Loveseat - Ivory",
+  "sku": "BLPLSEAT58IVY",
+  "brand": "Crowne",
+  "price": "$1,225.99",
+  "features": [
+    "Burlap Loveseats are great options for Rustic Events or Barns.",
+    "The polyester upholstery, tufted back and vintage style legs provide a chic look with a Head Table, Sweetheart Table or Lounge.",
+    "Additionally, customers have paired this Loveseat to perfectly compliment your Farm Tables and Crossback Chairs, providing a true homespun and elegant experience!",
+    "Our Burlap Loveseat chairs are available in ivory and taupe so they'll fit in to just about any setting!"
+  ],
+  "specifications": {
+    "Can ship FedEx?": "No",
+    "Brand": "Crowne",
+    "Material": "Polyester",
+    "Commercial-Grade?": "Yes",
+    "Overall Width": "36''",
+    "Overall Height": "72''",
+    "Overall Length / Depth": "67''",
+    "Recommended Seating": "2",
+    "Seat Height": "21''",
+    "Ships Assembled?": "Yes",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "Ivory",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/d/s/dsc09153.jpg",
+    "https://www.eventstable.com/media/catalog/product/d/s/dsc09161.jpg",
+    "https://www.eventstable.com/media/catalog/product/d/s/dsc09198a.jpg",
+    "https://www.eventstable.com/media/catalog/product/d/s/dsc09206i.jpg",
+    "https://www.eventstable.com/media/catalog/product/d/s/dsc09212.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/c/rcx_chair-182000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/c/rcx_chair-192000px.jpg"
+  ],
+  "colors": [
+    {
+      "label": "Ivory",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/i/v/ivoryy.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc09153_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/s/c/screen_shot_2022-03-08_at_3.46.04_pm.png",
+        "https://www.eventstable.com/media/catalog/product/b/u/burlap-loveseat-dims.png"
+      ]
+    },
+    {
+      "label": "Taupe",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/t/a/taupe_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc09220.jpg",
+        "https://www.eventstable.com/media/catalog/product/1/7/17c49fc797bf4979818ffc9428365e21.png",
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc09228.jpg",
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc09238.jpg",
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc09246.jpg",
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc09250.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/c/rcx_chair-262000px.jpg"
+      ]
+    }
+  ]
+}

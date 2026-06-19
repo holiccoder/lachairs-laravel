@@ -19,6 +19,8 @@ class DatabaseSeeder extends Seeder
     {
         User::factory()->create([
             'name' => 'Test User',
+            'first_name' => 'Test',
+            'last_name' => 'User',
             'email' => 'test@example.com',
         ]);
 
@@ -26,6 +28,12 @@ class DatabaseSeeder extends Seeder
             'name' => 'Admin',
             'email' => 'admin@lachairs.com',
             'password' => Hash::make('password'),
+        ]);
+
+        $this->call([
+            ProductCategorySeeder::class,
+            PlasticFoldingChairsSeeder::class,
+            CustomerSeeder::class,
         ]);
     }
 }

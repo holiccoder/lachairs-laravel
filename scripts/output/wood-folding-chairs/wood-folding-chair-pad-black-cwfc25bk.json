@@ -1,0 +1,49 @@
+{
+  "title": "Titan Grove Wood Folding Chair Pad - Black - Closeout",
+  "sku": "CWFC25BK",
+  "brand": "Global",
+  "price": "$9.39",
+  "features": [
+    "Replacement seat pads for out Titan Grove wood folding chairs."
+  ],
+  "specifications": {
+    "Special Order Item": "No",
+    "Can ship FedEx?": "Yes",
+    "Country of Manufacture": "China",
+    "Brand": "Global",
+    "Commercial-Grade?": "Yes",
+    "Padded Seat": "Yes",
+    "Ships Assembled?": "Yes",
+    "Has Arms": "No",
+    "Product Warranty": "2 years",
+    "Weight Capacity": "300 lbs.",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "Black",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/j/e/jez8__be_1.jpeg",
+    "https://www.eventstable.com/media/catalog/product/w/h/white-cushion-wood-folding-chair_1_1.jpeg",
+    "https://www.eventstable.com/media/catalog/product/c/u/cushion-dims-cwfc26_1.png"
+  ],
+  "colors": [
+    {
+      "label": "Black",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/b/l/black.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/w/h/white-cushion-wood-folding-chair_1_1.jpeg",
+        "https://www.eventstable.com/media/catalog/product/c/u/cushion-dims-cwfc26_1.png"
+      ]
+    },
+    {
+      "label": "Dark Beige",
+      "swatchImage": "#d6891e",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/c/w/cwfc26db.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/w/cwfc26db_back.jpg",
+        "https://www.eventstable.com/media/catalog/product/w/h/white-cushion-wood-folding-chair_1_1.jpeg",
+        "https://www.eventstable.com/media/catalog/product/c/u/cushion-dims-cwfc26_1.png"
+      ]
+    }
+  ]
+}

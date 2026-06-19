@@ -1,0 +1,81 @@
+{
+  "title": "TitanPRO™ Fanback Plastic Folding Chair - Black",
+  "sku": "FPFC2BK",
+  "brand": "Titan Event Furniture™",
+  "price": "$18.99",
+  "features": [
+    "TitanPRO™ Fanback Plastic Folding Chairs add a little bit of character and extra durability to the traditional plastic folding chair.",
+    "Made to the same rugged specifications as our commercial-grade TitanPRO™ poly folding chairs, these are a popular and attactive alternative for graduation and wedding seating.",
+    "The chairs feature a strong 18 gauge steel frame and 1st grade polypropylene plastic combined for a commercial quality chair.",
+    "The paint finish is an extremely durable baked on powdercoat.",
+    "The chairs fold and stack to 50 chairs high for transport or up to 100 chairs high for warehouse storage.",
+    "Transport and setup is easy with the integrated carrying handle built into the chair back.",
+    "Non-marring feet caps ensure that the chairs can be used indoors or outdoors."
+  ],
+  "specifications": {
+    "Free Shipping Deal Type": "Free Shipping on Tables and Chairs Over $5k, Free Shipping on 50 or more",
+    "Can ship FedEx?": "Yes",
+    "Country of Manufacture": "China",
+    "Brand": "Titan Event Furniture™",
+    "Material": "Plastic",
+    "Commercial-Grade?": "Yes",
+    "Overall Height": "35''",
+    "Overall Width": "17.5''",
+    "Overall Length / Depth": "21.5''",
+    "Seat Height": "17.5''",
+    "Seat Size": "15.5''W x 15.75''D",
+    "Ships Assembled?": "Yes",
+    "Stackable?": "Yes",
+    "Has Arms": "No",
+    "Static Weight Capacity": "683 lbs.",
+    "Dynamic Weight Capacity": "250 lbs.",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [
+    {
+      "question": "How many chairs can I stack?",
+      "answer": "We recommend these chairs stack 50 high on a dolly or 100 chairs high on the floor."
+    },
+    {
+      "question": "What is the best way to clean plastic folding chairs?",
+      "answer": "Wipe them down with a cloth or sponge soaked in warm, soapy water. For tougher stains, use a soft-bristle brush. Rinse with clean water and let them air dry. Avoid harsh chemicals like bleach to protect the plastic."
+    },
+    {
+      "question": "How long will plastic folding chairs last with regular care?",
+      "answer": "Our commercial-grade plastic folding chairs are built to withstand heavy use in event and hospitality settings. With regular cleaning and proper storage, they can last well over a decade, making them a durable and reliable choice for your business."
+    }
+  ],
+  "defaultColor": "Black",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/b/l/black_fanback_fold_chair_1.jpg",
+    "https://www.eventstable.com/media/catalog/product/b/l/black_fanback_fold_chair.jpg_2__1.jpg",
+    "https://www.eventstable.com/media/catalog/product/b/l/black_fanback_fold_chair.jpg_1__1.jpg",
+    "https://www.eventstable.com/media/catalog/product/b/l/black_fanback_fold_chair.jpg_3__1.jpg",
+    "https://www.eventstable.com/media/catalog/product/b/l/black_fanback_fold_chair.jpg_4__1.jpg",
+    "https://www.eventstable.com/media/catalog/product/b/l/black_fanback_fold_chair.jpg_5__1.jpg",
+    "https://www.eventstable.com/media/catalog/product/w/h/white_fanback_fold_chair_1.jpg"
+  ],
+  "colors": [
+    {
+      "label": "Black",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/b/l/black.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/w/h/white_fanback_fold_chair_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/b/l/black_fanback_fold_chair_2.jpg"
+      ]
+    },
+    {
+      "label": "White",
+      "swatchImage": "#ffffff",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/w/h/white_fanback_fold_chair.jpg",
+        "https://www.eventstable.com/media/catalog/product/w/h/white_fanback_fold_chair.jpg_1_.jpg",
+        "https://www.eventstable.com/media/catalog/product/w/h/white_fanback_fold_chair.jpg_2_.jpg",
+        "https://www.eventstable.com/media/catalog/product/w/h/white_fanback_fold_chair.jpg_3_.jpg",
+        "https://www.eventstable.com/media/catalog/product/w/h/white_fanback_fold_chair.jpg_4_.jpg",
+        "https://www.eventstable.com/media/catalog/product/w/h/white_fanback_fold_chair.jpg_5_.jpg",
+        "https://www.eventstable.com/media/catalog/product/w/h/white_fanback_fold_chair_1.jpg"
+      ]
+    }
+  ]
+}

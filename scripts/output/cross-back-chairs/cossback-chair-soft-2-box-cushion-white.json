@@ -1,0 +1,65 @@
+{
+  "title": "Crossback Chair Soft 2'' Box Cushion - White",
+  "sku": "XCBC4WH",
+  "brand": "Titan Event Furniture™",
+  "price": "$7.49",
+  "features": [
+    "Available in burlap, ivory, and white, our 2'' Soft Box Cushion designed for our Madison Cross Back Chairs are the perfect companian to comfortably seat your guests or customers."
+  ],
+  "specifications": {
+    "Free Shipping Deal Type": "Free Shipping on 200 or more",
+    "Can ship FedEx?": "Yes",
+    "Brand": "Titan Event Furniture™",
+    "Commercial-Grade?": "Yes",
+    "Overall Width": "17.25''",
+    "Overall Height": "2''",
+    "Overall Length / Depth": "16.5''",
+    "Ships Assembled?": "No",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "White",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/m/a/maroon-262000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/m/a/maroon-132000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/m/a/maroon-142000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/m/a/maroon-152000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/m/a/maroon-172000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/c/r/cross-back-chair-cushion-soft-box-burlap_1__1_1.jpg"
+  ],
+  "colors": [
+    {
+      "label": "Burlap",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/b/u/burlap_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/c/r/cross-back-chair-cushion-soft-box-burlap_1__1.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/c/rcx_chair-152000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/r/cross-back-chair-cushion-soft-box-burlap_1__1_1.jpg"
+      ]
+    },
+    {
+      "label": "Ivory",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/i/v/ivoryy.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/m/a/maroon-272000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/m/a/maroon-182000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/m/a/maroon-192000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/m/a/maroon-202000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/m/a/maroon-212000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/r/cross-back-chair-cushion-soft-box-burlap_1__1_1.jpg"
+      ]
+    },
+    {
+      "label": "White",
+      "swatchImage": "#ffffff",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/m/a/maroon-262000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/m/a/maroon-132000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/m/a/maroon-142000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/m/a/maroon-152000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/m/a/maroon-172000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/r/cross-back-chair-cushion-soft-box-burlap_1__1_1.jpg"
+      ]
+    }
+  ]
+}

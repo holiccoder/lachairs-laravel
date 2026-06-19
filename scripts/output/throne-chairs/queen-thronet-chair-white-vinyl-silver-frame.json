@@ -1,0 +1,59 @@
+{
+  "title": "Queen Thronet Chair - White Vinyl/Silver Frame",
+  "sku": "QTHRNT58SLVWH",
+  "brand": "Crowne",
+  "price": "$522.99",
+  "features": [
+    "Take an intricately handed crafted design and combine it with commercial-grade performance fit for royalty and you have our new Queen Thronet Chair.",
+    "When you hear \"built tough\" you might not think \"comfort\" but all of our throne chairs have been party rental tested and customer approved, meaning they feel and look as good as they perform.",
+    "The mahogany wood frame is designed to last and its high backrest supports the luxorious vinyl upholstery that provides an extra level of elegance and relaxing seating experience."
+  ],
+  "specifications": {
+    "Free Shipping Deal Type": "Free Shipping on Tables and Chairs Over $5k",
+    "Can ship FedEx?": "No",
+    "Country of Manufacture": "China",
+    "Brand": "Crowne",
+    "Commercial-Grade?": "Yes",
+    "Overall Height": "60''",
+    "Overall Width": "25.6''",
+    "Recommended Seating": "1",
+    "Ships Assembled?": "Yes",
+    "Has Arms": "No",
+    "Weight Capacity": "460 lbs.",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "Silver",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/c/h/chair100-72000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/c/0/c0d18ca59d3a4d818f19be682107f670.png",
+    "https://www.eventstable.com/media/catalog/product/c/h/chair100-82000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/c/h/chair100-62000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/c/h/chair100-52000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/c/h/chair100-92000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/q/u/queen-thronet_1.jpg"
+  ],
+  "colors": [
+    {
+      "label": "Silver",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/s/i/silver_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/c/h/chair100-72000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/0/c0d18ca59d3a4d818f19be682107f670.png",
+        "https://www.eventstable.com/media/catalog/product/c/h/chair100-82000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/h/chair100-62000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/h/chair100-52000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/c/h/chair100-92000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/q/u/queen-thronet_1.jpg"
+      ]
+    },
+    {
+      "label": "Gold",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/g/o/gold_.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/q/u/queen-thronet.jpg",
+        "https://www.eventstable.com/media/catalog/product/q/u/queen-thronet_1.jpg"
+      ]
+    }
+  ]
+}

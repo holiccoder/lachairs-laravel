@@ -1,0 +1,81 @@
+{
+  "title": "60'' x 126'' Polyester Tablecloth - White",
+  "sku": "PY-60x126-01",
+  "brand": "EventStable",
+  "price": "$9.49",
+  "features": [
+    "Cover your 8'x30'' banquet tables beautifully with our 60''x126'' polyester tablecloths.",
+    "This size will give you 15'' drop all around on an 8' banquet table.",
+    "Go end-to-end for buffet line, or for popular family style wedding service.",
+    "Our durable 100% polyester fabric will perform event after event, and is ready to go after an easy machine laundering.",
+    "The quality of most linens are defined by table linen’s weight or GSM.",
+    "The higher the GSM (grams per square meter), the higher the quality.",
+    "We are proud to say that our standard polyester tablecloths are made with 200 GSM"
+  ],
+  "specifications": {
+    "Special Order Item": "No",
+    "Free Shipping Deal Type": "Free Shipping Over $99, Free Shipping on Tables and Chairs Over $5k",
+    "Can ship FedEx?": "Yes",
+    "Country of Manufacture": "China",
+    "Brand": "EventStable",
+    "Material": "100% Polyester",
+    "Commercial-Grade?": "Yes",
+    "Fits Table Size": "Please see our size guide",
+    "Has Seams?": "Seamless",
+    "Hem": "Narrow Rolled Serge",
+    "Laundering": "Please see our laundering recommendations",
+    "Shape": "Rectangle",
+    "Size": "60''x126''",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "White",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/d/s/dsc015102000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/d/s/dsc015202000px_1.jpg",
+    "https://www.eventstable.com/media/catalog/product/6/0/60x126-tabledrop.png",
+    "https://www.eventstable.com/media/catalog/product/w/h/white-polyester_2_1_1_1_1.jpg",
+    "https://www.eventstable.com/media/catalog/product/i/v/ivory-polyester_2_1_1_1_1.jpg",
+    "https://www.eventstable.com/media/catalog/product/b/l/black-polyester_2_1_1_1_1.jpg"
+  ],
+  "colors": [
+    {
+      "label": "Black",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/b/l/black.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc015202000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/b/l/black-polyester_7.jpg",
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc015202000px_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/6/0/60x126-tabledrop.png",
+        "https://www.eventstable.com/media/catalog/product/w/h/white-polyester_2_1_1_1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/i/v/ivory-polyester_2_1_1_1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/b/l/black-polyester_2_1_1_1_1.jpg"
+      ]
+    },
+    {
+      "label": "Ivory",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/i/v/ivoryy.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/6/0/60x126-ivory-tablecloth-1.jpg",
+        "https://www.eventstable.com/media/catalog/product/i/v/ivory-polyester_7.jpg",
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc015202000px_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/6/0/60x126-tabledrop.png",
+        "https://www.eventstable.com/media/catalog/product/w/h/white-polyester_2_1_1_1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/i/v/ivory-polyester_2_1_1_1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/b/l/black-polyester_2_1_1_1_1.jpg"
+      ]
+    },
+    {
+      "label": "White",
+      "swatchImage": "#ffffff",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc015102000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/d/s/dsc015202000px_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/6/0/60x126-tabledrop.png",
+        "https://www.eventstable.com/media/catalog/product/w/h/white-polyester_2_1_1_1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/i/v/ivory-polyester_2_1_1_1_1.jpg",
+        "https://www.eventstable.com/media/catalog/product/b/l/black-polyester_2_1_1_1_1.jpg"
+      ]
+    }
+  ]
+}

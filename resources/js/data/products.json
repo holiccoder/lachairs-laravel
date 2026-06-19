@@ -1,0 +1,5884 @@
+{
+  "items": [
+    {
+      "id": 52,
+      "sku": "WFT6M-7230",
+      "name": "6 Ft Plywood Banquet Tables",
+      "attribute_set_id": 4,
+      "price": 50,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:07",
+      "updated_at": "2026-05-08 08:20:33",
+      "weight": 50,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -1,
+            "category_id": "126"
+          },
+          {
+            "position": -1,
+            "category_id": "127"
+          },
+          {
+            "position": -1,
+            "category_id": "129"
+          },
+          {
+            "position": 0,
+            "category_id": "128"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 54,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/d/s/dsc_9805-edit-601x400.jpg"
+        },
+        {
+          "id": 55,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/d/s/dsc_9806-edit.jpg"
+        },
+        {
+          "id": 56,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/d/s/dsc_9813-edit-100x100.jpg"
+        },
+        {
+          "id": 57,
+          "media_type": "image",
+          "label": null,
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/c/h/chiavarichair_metaledgetable_011216-10-100x100.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/d/s/dsc_9805-edit-601x400.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-rectangular-banquet-folding-table"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "description",
+          "value": "Even though plywood banquet tables are covered by linens, you cant hide from the importance of buying a table that will provide the return on investment that increases your profitability. Buying replacement tables in a couple of years is not the answer. Buy our rugged rectangle plywood banquet table and watch it perform well beyond your expectations!\r\n\r\n72x30 Rectangle Heavy Duty Plywood Banquet Table with Metal Edges Product Information:\r\n\r\n 6 Rectangle Plywood Banquet Table\r\n Seats up to 6 adults (3 on each side), increase to 8 by seating 1 person on each end\r\n Commercial grade, ¾ (.75) thick plywood (fits standard table skirt clips)\r\n 4 Coats of Polyurethane on the top for water resistance\r\n 2 Coats of Polyurethane on the bottom\r\n Aluminum C shaped protective edge that wraps around the table, not just the edge\r\n 2 runners on the table bottom prevent warping and allow table stacking\r\n Powder coated legs to prevent rusting\r\n Posi-lock wishbone legs that fold easily but do not open during transport.\r\n Leg Color: Silver\r\n Replaceable non-marring floor caps, 1 diameter\r\n 15 Gauge Steel Legs\r\n Designed to last 5-10 years\r\n 100% bolt-through construction (not screws) for leg and runner attachment.\r\n Capacity: 560 lbs. static load.\r\n Weight: 45.00 lbs. (Ultra-Strong Design)\r\n Length: 72.00\r\n Width: 30.00\r\n Height: 30.00 (Industry Standard)\r\n Ships Assembled\r\n Warranty: 1 Year Limited Warranty"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/d/s/dsc_9805-edit-601x400.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "WOOD RECTANGULAR BANQUET FOLDING TABLE"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/d/s/dsc_9805-edit-601x400.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "WOOD RECTANGULAR BANQUET FOLDING TABLE"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/d/s/dsc_9805-edit-601x400.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "WOOD RECTANGULAR BANQUET FOLDING TABLE CTGO commercial-grade plywood folding tables are the standard for wood folding tables.  The tabletop is constructed from high quality 3/4\" thick birch wood with light color finish and sealed with protective water-res"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "127",
+            "129",
+            "128"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "country_of_manufacture",
+          "value": "CN"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "sku": "WCC2",
+      "name": "Wood Chiavari Chair",
+      "attribute_set_id": 4,
+      "price": 0,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "configurable",
+      "created_at": "2026-05-08 07:16:07",
+      "updated_at": "2026-05-08 08:18:31",
+      "weight": 15,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -1,
+            "category_id": "132"
+          },
+          {
+            "position": -2,
+            "category_id": "126"
+          },
+          {
+            "position": -1,
+            "category_id": "130"
+          },
+          {
+            "position": -1,
+            "category_id": "131"
+          },
+          {
+            "position": -1,
+            "category_id": "133"
+          }
+        ],
+        "configurable_product_options": [
+          {
+            "id": 4,
+            "attribute_id": "93",
+            "label": "Color",
+            "position": 0,
+            "values": [
+              {
+                "value_index": 5
+              },
+              {
+                "value_index": 26
+              },
+              {
+                "value_index": 39
+              },
+              {
+                "value_index": 40
+              },
+              {
+                "value_index": 42
+              }
+            ],
+            "product_id": 53
+          }
+        ],
+        "configurable_product_links": [
+          60,
+          79,
+          78,
+          77,
+          80
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 58,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/0/003.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/0/003.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-chiavari-chair"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "description",
+          "value": "Attractive, comfortable resin folding chairs are the perfect seating solution for indoor or outdoor use! These resin folding chairs feature high quality padded seating surfaces and hardware, providing long-lasting comfort and durability. Excellent chair choice for caterers, rental chair stock, wedding and event facilities.\r\n· Metal bracing in seat prevents breakage from rivet\r\n· Double tubing throughout the lower portion of the legs guards against typical frame breakage\r\n· Thick underseat rivets prevent separation\r\n"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/0/003.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/0/003.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Chiavari Chair "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "132",
+            "126",
+            "130",
+            "131",
+            "133"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "sku": "WXC2N",
+      "name": "Wood Cross Back Chairs",
+      "attribute_set_id": 4,
+      "price": 39.9,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:07",
+      "updated_at": "2026-05-15 18:59:43",
+      "weight": 9.5,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -1,
+            "category_id": "134"
+          },
+          {
+            "position": -3,
+            "category_id": "126"
+          },
+          {
+            "position": -2,
+            "category_id": "130"
+          },
+          {
+            "position": -2,
+            "category_id": "133"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 59,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/4/_/4_1_1.jpg"
+        },
+        {
+          "id": 60,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/3/_/3_1.jpg"
+        },
+        {
+          "id": 61,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/6/_/6_1.jpg"
+        },
+        {
+          "id": 62,
+          "media_type": "image",
+          "label": null,
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/7/_/7_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/4/_/4_1_1.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "cross-back-chairs"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "32"
+        },
+        {
+          "attribute_code": "description",
+          "value": "The driftwood cross back chair is a wonderful addition to the event and wedding industry.  It has been accepted greatly and is quickly becoming a standard which all event centers and equipment rental companies must have.  It is made of a high quality oak wood materials which looks like a high quality dining room chair.\r\n\r\nWood Cross Back Chair Product Information:\r\n\r\nMaterial Type: Oak wood\r\nSolid Oak wood construction\r\nStacks very efficiently up to 10 chairs.\r\nImpact resistant feet at the bottom of each leg to prevent splintering.\r\nSmooth edges and sleek design\r\nNon-skid, non-marring feet\r\nWarranty: 1 Year Limited Warranty\r\nWeight: 9.50 lbs.\r\nOverall Height: 34.00\r\nSeat Height: 18.00\r\nOverall Width: 16.75\r\nOverall Length: 16.75"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/4/_/4_1_1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Cross Back Chairs"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/4/_/4_1_1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Cross Back Chairs"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/4/_/4_1_1.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Cross Back Chairs"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "134",
+            "126",
+            "130",
+            "133"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "sku": "WFT60P",
+      "name": "Wood Round Folding Table 60''",
+      "attribute_set_id": 4,
+      "price": 79,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:07",
+      "updated_at": "2026-05-08 08:24:50",
+      "weight": 60,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -4,
+            "category_id": "126"
+          },
+          {
+            "position": -2,
+            "category_id": "127"
+          },
+          {
+            "position": -1,
+            "category_id": "135"
+          },
+          {
+            "position": -1,
+            "category_id": "136"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 63,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/6/0/60-inch-round-.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/6/0/60-inch-round-.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-round-folding-table-60"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/6/0/60-inch-round-.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Round Folding Table 60''"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/6/0/60-inch-round-.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Round Folding Table 60''"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/6/0/60-inch-round-.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Round Folding Table 60'' "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "127",
+            "135",
+            "136"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "sku": "PFT60",
+      "name": "Plastic Folding Round Table 60''",
+      "attribute_set_id": 4,
+      "price": 99,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:07",
+      "updated_at": "2026-05-08 08:24:37",
+      "weight": 50,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -5,
+            "category_id": "126"
+          },
+          {
+            "position": -3,
+            "category_id": "127"
+          },
+          {
+            "position": -1,
+            "category_id": "137"
+          },
+          {
+            "position": -1,
+            "category_id": "138"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 64,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/1/f/1ff98723d3a937aff9ed8e2c5e55c306.jpg"
+        },
+        {
+          "id": 65,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/t/wtd103_1_1.jpg"
+        },
+        {
+          "id": 66,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/5/8/580070e83a3dcbe02054bfc6556d1f9c.jpg"
+        },
+        {
+          "id": 67,
+          "media_type": "image",
+          "label": null,
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/6/9/6990e6acbe15cee8eff7f1878a26fc5a.jpg"
+        },
+        {
+          "id": 68,
+          "media_type": "image",
+          "label": null,
+          "position": 5,
+          "disabled": false,
+          "types": [],
+          "file": "/8/6/862c26d4e77cda9679b0adf878a635c1.jpg"
+        },
+        {
+          "id": 69,
+          "media_type": "image",
+          "label": null,
+          "position": 6,
+          "disabled": false,
+          "types": [],
+          "file": "/c/4/c4a4e24f479256270663ec34bb219d28.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "short_description",
+          "value": "<table id=\"product-attribute-specs-table\" class=\"data table additional-attributes\">\r\n<tbody>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Commercial-Grade?</th>\r\n<td class=\"col data\" data-th=\"Commercial-Grade?\">Yes</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Overall Width</th>\r\n<td class=\"col data\" data-th=\"Overall Width\">18.5''</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Overall Length / Depth</th>\r\n<td class=\"col data\" data-th=\"Overall Length / Depth\">22''</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Ships Assembled?</th>\r\n<td class=\"col data\" data-th=\"Ships Assembled?\">Yes</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Item Weight</th>\r\n<td class=\"col data\" data-th=\"Item Weight\">11.4</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Weight Capacity</th>\r\n<td class=\"col data\" data-th=\"Weight Capacity\">500 lbs.</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Dynamic Weight Capacity</th>\r\n<td class=\"col data\" data-th=\"Dynamic Weight Capacity\">250 lbs.</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+        },
+        {
+          "attribute_code": "image",
+          "value": "/1/f/1ff98723d3a937aff9ed8e2c5e55c306.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-round-folding-table"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "description",
+          "value": "<table id=\"product-attribute-specs-table\" class=\"data table additional-attributes\">\r\n<tbody>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Commercial-Grade?</th>\r\n<td class=\"col data\" data-th=\"Commercial-Grade?\">Yes</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Frame</th>\r\n<td class=\"col data\" data-th=\"Frame\">Steel</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Overall Height</th>\r\n<td class=\"col data\" data-th=\"Overall Height\">33''</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Overall Width</th>\r\n<td class=\"col data\" data-th=\"Overall Width\">18.5''</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Overall Length / Depth</th>\r\n<td class=\"col data\" data-th=\"Overall Length / Depth\">22''</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Ships Assembled?</th>\r\n<td class=\"col data\" data-th=\"Ships Assembled?\">Yes</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Item Weight</th>\r\n<td class=\"col data\" data-th=\"Item Weight\">11.4</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Weight Capacity</th>\r\n<td class=\"col data\" data-th=\"Weight Capacity\">500 lbs.</td>\r\n</tr>\r\n<tr>\r\n<th class=\"col label\" scope=\"row\">Dynamic Weight Capacity</th>\r\n<td class=\"col data\" data-th=\"Dynamic Weight Capacity\">250 lbs.</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/1/f/1ff98723d3a937aff9ed8e2c5e55c306.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Round Folding Table"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/1/f/1ff98723d3a937aff9ed8e2c5e55c306.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Round Folding Table"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/1/f/1ff98723d3a937aff9ed8e2c5e55c306.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Round Folding Table "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "127",
+            "137",
+            "138"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "sku": "TD-U",
+      "name": "Table Dolly-Universal",
+      "attribute_set_id": 4,
+      "price": 99,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:20:08",
+      "weight": 60,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -6,
+            "category_id": "126"
+          },
+          {
+            "position": -1,
+            "category_id": "139"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 70,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/2/0/20111205120923801.jpg"
+        },
+        {
+          "id": 71,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/t/wtd103_1.jpg"
+        },
+        {
+          "id": 72,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/2/0/20111128100836410_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/2/0/20111205120923801.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "table-dolly-universal"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/2/0/20111205120923801.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Table Dolly-Universal"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/2/0/20111205120923801.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Table Dolly-Universal"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/2/0/20111205120923801.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Table Dolly-Universal "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "139"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "sku": "WFT6P-7230",
+      "name": "Wood Folding Table banquet 72''x30'' 6ft Vinyl Edge",
+      "attribute_set_id": 4,
+      "price": 59.9,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:24:23",
+      "weight": 50,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -7,
+            "category_id": "126"
+          },
+          {
+            "position": -4,
+            "category_id": "127"
+          },
+          {
+            "position": -2,
+            "category_id": "135"
+          },
+          {
+            "position": -1,
+            "category_id": "140"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 73,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/c/t/ctgo-30x72-6ft-wood_folding_table.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/c/t/ctgo-30x72-6ft-wood_folding_table.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-folding-table-banquet-72-x30-6ft-vinyl-edge"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/c/t/ctgo-30x72-6ft-wood_folding_table.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Folding Table banquet 72''x30'' 6ft Vinyl Edge"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/c/t/ctgo-30x72-6ft-wood_folding_table.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Folding Table banquet 72''x30'' 6ft Vinyl Edge"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/c/t/ctgo-30x72-6ft-wood_folding_table.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Folding Table banquet 72''x30'' 6ft Vinyl Edge "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "127",
+            "135",
+            "140"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "sku": "T32x20",
+      "name": "Tent 32'x20'",
+      "attribute_set_id": 4,
+      "price": 900,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:21:34",
+      "weight": 500,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -8,
+            "category_id": "126"
+          },
+          {
+            "position": -1,
+            "category_id": "141"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 74,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/c/t/ctgo_tent.png"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/c/t/ctgo_tent.png"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "tent-32-x20"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/c/t/ctgo_tent.png"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Tent 32'x20'"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/c/t/ctgo_tent.png"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Tent 32'x20'"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/c/t/ctgo_tent.png"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Tent 32'x20' "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "141"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "sku": "WCC2-WH",
+      "name": "Wood Chiavari Chair-white",
+      "attribute_set_id": 4,
+      "price": 45,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:24:09",
+      "weight": 15,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -9,
+            "category_id": "126"
+          },
+          {
+            "position": -3,
+            "category_id": "130"
+          },
+          {
+            "position": -2,
+            "category_id": "131"
+          },
+          {
+            "position": -2,
+            "category_id": "132"
+          },
+          {
+            "position": -3,
+            "category_id": "133"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 75,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/2/020_2.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/2/020_2.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-chiavari-chair-white"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "5"
+        },
+        {
+          "attribute_code": "description",
+          "value": "Attractive, comfortable resin folding chairs are the perfect seating solution for indoor or outdoor use! These resin folding chairs feature high quality padded seating surfaces and hardware, providing long-lasting comfort and durability. Excellent chair choice for caterers, rental chair stock, wedding and event facilities.\r\n· Metal bracing in seat prevents breakage from rivet\r\n· Double tubing throughout the lower portion of the legs guards against typical frame breakage\r\n· Thick underseat rivets prevent separation\r\n"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/2/020_2.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/2/020_2.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Chiavari Chair "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "131",
+            "132",
+            "133"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "sku": "PFT8-9630",
+      "name": "Plastic Folding Tables 8Ft",
+      "attribute_set_id": 4,
+      "price": 99,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:23:52",
+      "weight": 26,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -10,
+            "category_id": "126"
+          },
+          {
+            "position": -5,
+            "category_id": "127"
+          },
+          {
+            "position": -2,
+            "category_id": "137"
+          },
+          {
+            "position": -1,
+            "category_id": "142"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 76,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/9/c/9c8b53bb73575cdabb00ff5622e7e78e.jpg"
+        },
+        {
+          "id": 77,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/6/9/69f161923fb915843b6f9ddf2bcb4efe.jpg"
+        },
+        {
+          "id": 78,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/d/1/d16cc3ce6108e5605d8831acc666eadd.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/9/c/9c8b53bb73575cdabb00ff5622e7e78e.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-folding-tables-1"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/9/c/9c8b53bb73575cdabb00ff5622e7e78e.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Folding Tables"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/9/c/9c8b53bb73575cdabb00ff5622e7e78e.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Folding Tables"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/9/c/9c8b53bb73575cdabb00ff5622e7e78e.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Folding Tables "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "127",
+            "137",
+            "142"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "sku": "RFC3BL",
+      "name": "Resin Folding Chair-black",
+      "attribute_set_id": 4,
+      "price": 23,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:23:33",
+      "weight": 12,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -11,
+            "category_id": "126"
+          },
+          {
+            "position": -4,
+            "category_id": "130"
+          },
+          {
+            "position": -1,
+            "category_id": "143"
+          },
+          {
+            "position": -1,
+            "category_id": "144"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 79,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/0/009_6_1.jpg"
+        },
+        {
+          "id": 80,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/images_1.jpg"
+        },
+        {
+          "id": 81,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/images_1__1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "url_key",
+          "value": "resin-folding-chair-black"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "6"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/0/009_6_1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Resin Folding Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/0/009_6_1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Resin Folding Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Resin Folding Chair "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143",
+            "144"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "sku": "RFC3MA",
+      "name": "Resin Folding Chair-mahogany",
+      "attribute_set_id": 4,
+      "price": 23,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 07:49:52",
+      "weight": 12,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -12,
+            "category_id": "126"
+          },
+          {
+            "position": -5,
+            "category_id": "130"
+          },
+          {
+            "position": -2,
+            "category_id": "143"
+          },
+          {
+            "position": -2,
+            "category_id": "144"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 82,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/1/010_4_1.jpg"
+        },
+        {
+          "id": 83,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/images_3__1.jpg"
+        },
+        {
+          "id": 84,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/images_2__1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "url_key",
+          "value": "resin-folding-chair-mahogany"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "13"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/1/010_4_1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Resin Folding Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/1/010_4_1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Resin Folding Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Resin Folding Chair "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143",
+            "144"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "sku": "RFC3",
+      "name": "Resin Folding Chair",
+      "attribute_set_id": 4,
+      "price": 0,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "configurable",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:23:11",
+      "weight": 12,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -13,
+            "category_id": "126"
+          },
+          {
+            "position": -6,
+            "category_id": "130"
+          },
+          {
+            "position": -3,
+            "category_id": "143"
+          },
+          {
+            "position": -3,
+            "category_id": "144"
+          }
+        ],
+        "configurable_product_options": [
+          {
+            "id": 5,
+            "attribute_id": "93",
+            "label": "Color",
+            "position": 0,
+            "values": [
+              {
+                "value_index": 6
+              },
+              {
+                "value_index": 11
+              },
+              {
+                "value_index": 13
+              }
+            ],
+            "product_id": 64
+          }
+        ],
+        "configurable_product_links": [
+          62,
+          90,
+          63
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 85,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/i/m/images_7_.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/i/m/images_7_.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "resin-folding-chair"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>These resin folding chairs are a perfect fit for most applications. They are made to look identical to traditional wood folding chairs, in fact they have become the standard for garden folding chairs, perhaps the most popular padded wedding chair. Same weight and dimensions, but these chairs are stronger than any wood chair and will last through years of use.</p>\r\n<p>These chairs are very easy to clean and maintain, they can be wiped off with a damp rag in between rentals or events.</p>\r\n<p>The resin material is 100% virgin polypropylene with UV protectants included in the molding process. This ensures the chairs will not fade or lose their bright appearance over time.</p>"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/i/m/images_7_.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Resin Folding Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/i/m/images_7_.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Resin Folding Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Resin Folding Chair "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143",
+            "144"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "sku": "SC",
+      "name": "School Chair",
+      "attribute_set_id": 4,
+      "price": 29,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 07:49:52",
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -7,
+            "category_id": "130"
+          },
+          {
+            "position": -1,
+            "category_id": "145"
+          },
+          {
+            "position": -1,
+            "category_id": "146"
+          },
+          {
+            "position": -1,
+            "category_id": "147"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 86,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/c/t/ctgo-school-stack-chairs.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/c/t/ctgo-school-stack-chairs.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "school-chair"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/c/t/ctgo-school-stack-chairs.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "School Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/c/t/ctgo-school-stack-chairs.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "School Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "School Chair "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "130",
+            "145",
+            "146",
+            "147"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "sku": "KPFC3BL",
+      "name": "Kids Plastic Folding Chair-black",
+      "attribute_set_id": 4,
+      "price": 9.95,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:22:49",
+      "weight": 4.5,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -14,
+            "category_id": "126"
+          },
+          {
+            "position": -8,
+            "category_id": "130"
+          },
+          {
+            "position": -4,
+            "category_id": "143"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 87,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/b/l/black-1.jpg"
+        },
+        {
+          "id": 88,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/img_4331_1.jpeg"
+        },
+        {
+          "id": 89,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/img_4327_1.jpeg"
+        },
+        {
+          "id": 90,
+          "media_type": "image",
+          "label": null,
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/img_4329_1.jpeg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/b/l/black-1.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-folding-chair-black"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "6"
+        },
+        {
+          "attribute_code": "description",
+          "value": "The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marring foot caps to prevent unwanted floor scuffs. The seat and back are made from polypropylene for extra durability. The frame is powder-coated for protection against scratching and wear. These chairs can be conveniently stacked 65 high on our Heavy Duty Multi-Purpose Chair Dolly and still pass through any standard doorway.  Chair available in different colour."
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/b/l/black-1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/b/l/black-1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Folding Chair The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marri"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "country_of_manufacture",
+          "value": "US"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "sku": "PFC3SI",
+      "name": "Plastic Folding Chair-silver",
+      "attribute_set_id": 4,
+      "price": 9.95,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:22:33",
+      "weight": 6.95,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -15,
+            "category_id": "126"
+          },
+          {
+            "position": -9,
+            "category_id": "130"
+          },
+          {
+            "position": -5,
+            "category_id": "143"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 91,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/0/0/009_1__1.png"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/0/009_1__1.png"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-folding-chair-silver"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "25"
+        },
+        {
+          "attribute_code": "description",
+          "value": "The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marring foot caps to prevent unwanted floor scuffs. The seat and back are made from polypropylene for extra durability. The frame is powder-coated for protection against scratching and wear. These chairs can be conveniently stacked 65 high on our Heavy Duty Multi-Purpose Chair Dolly and still pass through any standard doorway.  Chair available in different colour."
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/0/009_1__1.png"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/0/009_1__1.png"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/0/0/009_1__1.png"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Folding Chair The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marri"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "sku": "PFC3BE",
+      "name": "Plastic Folding Chair-beige",
+      "attribute_set_id": 4,
+      "price": 9.95,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:22:16",
+      "weight": 6.95,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -16,
+            "category_id": "126"
+          },
+          {
+            "position": -10,
+            "category_id": "130"
+          },
+          {
+            "position": -6,
+            "category_id": "143"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 92,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/1/012_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/1/012_1.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-folding-chair-beige"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "14"
+        },
+        {
+          "attribute_code": "description",
+          "value": "The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marring foot caps to prevent unwanted floor scuffs. The seat and back are made from polypropylene for extra durability. The frame is powder-coated for protection against scratching and wear. These chairs can be conveniently stacked 65 high on our Heavy Duty Multi-Purpose Chair Dolly and still pass through any standard doorway.  Chair available in different colour."
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/1/012_1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/1/012_1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Folding Chair The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marri"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "sku": "PFC3BR",
+      "name": "Plastic Folding Chair-brown",
+      "attribute_set_id": 4,
+      "price": 9.95,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:06:07",
+      "weight": 6.95,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -17,
+            "category_id": "126"
+          },
+          {
+            "position": -11,
+            "category_id": "130"
+          },
+          {
+            "position": -7,
+            "category_id": "143"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 93,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/1/010.png"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/1/010.png"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-folding-chair-brown"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "11"
+        },
+        {
+          "attribute_code": "description",
+          "value": "The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marring foot caps to prevent unwanted floor scuffs. The seat and back are made from polypropylene for extra durability. The frame is powder-coated for protection against scratching and wear. These chairs can be conveniently stacked 65 high on our Heavy Duty Multi-Purpose Chair Dolly and still pass through any standard doorway.  Chair available in different colour."
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/1/010.png"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/1/010.png"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Folding Chair The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marri"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "sku": "PFC3CA",
+      "name": "Plastic Folding Chair-charcoal",
+      "attribute_set_id": 4,
+      "price": 9.95,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:21:56",
+      "weight": 6.95,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -18,
+            "category_id": "126"
+          },
+          {
+            "position": -12,
+            "category_id": "130"
+          },
+          {
+            "position": -8,
+            "category_id": "143"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 94,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/0/009_2.png"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/0/009_2.png"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-folding-chair-charcoal"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "41"
+        },
+        {
+          "attribute_code": "description",
+          "value": "The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marring foot caps to prevent unwanted floor scuffs. The seat and back are made from polypropylene for extra durability. The frame is powder-coated for protection against scratching and wear. These chairs can be conveniently stacked 65 high on our Heavy Duty Multi-Purpose Chair Dolly and still pass through any standard doorway.  Chair available in different colour."
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/0/009_2.png"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/0/009_2.png"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Folding Chair The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marri"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "sku": "PFC3CO",
+      "name": "Plastic Folding Chair-chocolate",
+      "attribute_set_id": 4,
+      "price": 9.95,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:21:12",
+      "weight": 6.95,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -19,
+            "category_id": "126"
+          },
+          {
+            "position": -13,
+            "category_id": "130"
+          },
+          {
+            "position": -9,
+            "category_id": "143"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 95,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/2/0/20190617102352591.png"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/2/0/20190617102352591.png"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-folding-chair-chocolate"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "21"
+        },
+        {
+          "attribute_code": "description",
+          "value": "The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marring foot caps to prevent unwanted floor scuffs. The seat and back are made from polypropylene for extra durability. The frame is powder-coated for protection against scratching and wear. These chairs can be conveniently stacked 65 high on our Heavy Duty Multi-Purpose Chair Dolly and still pass through any standard doorway.  Chair available in different colour."
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/2/0/20190617102352591.png"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/2/0/20190617102352591.png"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Folding Chair The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marri"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "sku": "PFC3IV",
+      "name": "Plastic Folding Chair-ivory",
+      "attribute_set_id": 4,
+      "price": 9.95,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:25:17",
+      "weight": 6.95,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -20,
+            "category_id": "126"
+          },
+          {
+            "position": -14,
+            "category_id": "130"
+          },
+          {
+            "position": -10,
+            "category_id": "143"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 96,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/0/008_1.png"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/0/008_1.png"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-folding-chair-ivory"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "31"
+        },
+        {
+          "attribute_code": "description",
+          "value": "The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marring foot caps to prevent unwanted floor scuffs. The seat and back are made from polypropylene for extra durability. The frame is powder-coated for protection against scratching and wear. These chairs can be conveniently stacked 65 high on our Heavy Duty Multi-Purpose Chair Dolly and still pass through any standard doorway.  Chair available in different colour."
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/0/008_1.png"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/0/008_1.png"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Folding Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Folding Chair The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs.  Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marri"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "sku": "WFC2WH",
+      "name": "Wood Folding Chairs-white",
+      "attribute_set_id": 4,
+      "price": 19,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:25:38",
+      "weight": 10,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -21,
+            "category_id": "126"
+          },
+          {
+            "position": -15,
+            "category_id": "130"
+          },
+          {
+            "position": -11,
+            "category_id": "143"
+          },
+          {
+            "position": -1,
+            "category_id": "148"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 97,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/0/0/008_6_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/0/008_6_1.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-folding-chairs-white"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "5"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/0/008_6_1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Folding Chairs"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/0/008_6_1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Folding Chairs"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/0/0/008_6_1.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Folding Chairs "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143",
+            "148"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "sku": "WFC2BL",
+      "name": "Wood Folding Chairs-black",
+      "attribute_set_id": 4,
+      "price": 19.9,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:25:59",
+      "weight": 10,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -22,
+            "category_id": "126"
+          },
+          {
+            "position": -16,
+            "category_id": "130"
+          },
+          {
+            "position": -12,
+            "category_id": "143"
+          },
+          {
+            "position": -2,
+            "category_id": "148"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 98,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/0/0/009_8_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/0/009_8_1.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-folding-chairs-black"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "6"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/0/009_8_1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Folding Chairs"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/0/009_8_1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Folding Chairs"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/0/0/009_8_1.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Folding Chairs "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143",
+            "148"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "sku": "WFC2NA",
+      "name": "Wood Folding Chairs-natural",
+      "attribute_set_id": 4,
+      "price": 19.9,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:33:30",
+      "weight": 10,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -23,
+            "category_id": "126"
+          },
+          {
+            "position": -17,
+            "category_id": "130"
+          },
+          {
+            "position": -13,
+            "category_id": "143"
+          },
+          {
+            "position": -3,
+            "category_id": "148"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 99,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/e/s/es1103t_05012017_1_1__1_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/e/s/es1103t_05012017_1_1__1_1.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-folding-chairs-natural"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "32"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/e/s/es1103t_05012017_1_1__1_1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Folding Chairs"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/e/s/es1103t_05012017_1_1__1_1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Folding Chairs"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/e/s/es1103t_05012017_1_1__1_1.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Folding Chairs "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143",
+            "148"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "sku": "WFC2FR",
+      "name": "Wood Folding Chairs-fruitwood",
+      "attribute_set_id": 4,
+      "price": 19.9,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:26:13",
+      "weight": 10,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -24,
+            "category_id": "126"
+          },
+          {
+            "position": -18,
+            "category_id": "130"
+          },
+          {
+            "position": -14,
+            "category_id": "143"
+          },
+          {
+            "position": -4,
+            "category_id": "148"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 100,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/0/1/010_5_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/1/010_5_1.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-folding-chairs-fruitwood"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "39"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/1/010_5_1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Folding Chairs"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/1/010_5_1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Folding Chairs"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/0/1/010_5_1.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Folding Chairs "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143",
+            "148"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "sku": "WCC2GO",
+      "name": "Wood Chiavari Chair-gold",
+      "attribute_set_id": 4,
+      "price": 48,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:26:28",
+      "weight": 15,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -25,
+            "category_id": "126"
+          },
+          {
+            "position": -19,
+            "category_id": "130"
+          },
+          {
+            "position": -3,
+            "category_id": "131"
+          },
+          {
+            "position": -3,
+            "category_id": "132"
+          },
+          {
+            "position": -4,
+            "category_id": "133"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 101,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/2/021_2.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/2/021_2.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-chiavari-chair-gold"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "26"
+        },
+        {
+          "attribute_code": "description",
+          "value": "Attractive, comfortable resin folding chairs are the perfect seating solution for indoor or outdoor use! These resin folding chairs feature high quality padded seating surfaces and hardware, providing long-lasting comfort and durability. Excellent chair choice for caterers, rental chair stock, wedding and event facilities.\r\n· Metal bracing in seat prevents breakage from rivet\r\n· Double tubing throughout the lower portion of the legs guards against typical frame breakage\r\n· Thick underseat rivets prevent separation\r\n"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/2/021_2.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/2/021_2.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Chiavari Chair "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "131",
+            "132",
+            "133"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "sku": "WCC2SI",
+      "name": "Wood Chiavari Chair-silver",
+      "attribute_set_id": 4,
+      "price": 47,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:34:12",
+      "weight": 15,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -26,
+            "category_id": "126"
+          },
+          {
+            "position": -20,
+            "category_id": "130"
+          },
+          {
+            "position": -4,
+            "category_id": "131"
+          },
+          {
+            "position": -4,
+            "category_id": "132"
+          },
+          {
+            "position": -5,
+            "category_id": "133"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 102,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/2/023_2.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/2/023_2.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-chiavari-chair-grey"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "42"
+        },
+        {
+          "attribute_code": "description",
+          "value": "Attractive, comfortable resin folding chairs are the perfect seating solution for indoor or outdoor use! These resin folding chairs feature high quality padded seating surfaces and hardware, providing long-lasting comfort and durability. Excellent chair choice for caterers, rental chair stock, wedding and event facilities.\r\n· Metal bracing in seat prevents breakage from rivet\r\n· Double tubing throughout the lower portion of the legs guards against typical frame breakage\r\n· Thick underseat rivets prevent separation\r\n"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/2/023_2.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/2/023_2.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Chiavari Chair "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "131",
+            "132",
+            "133"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "sku": "WCC2MA",
+      "name": "Wood Chiavari Chair-maroon",
+      "attribute_set_id": 4,
+      "price": 46,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:33:58",
+      "weight": 15,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -27,
+            "category_id": "126"
+          },
+          {
+            "position": -21,
+            "category_id": "130"
+          },
+          {
+            "position": -5,
+            "category_id": "131"
+          },
+          {
+            "position": -5,
+            "category_id": "132"
+          },
+          {
+            "position": -6,
+            "category_id": "133"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 103,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/2/022_1_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/2/022_1_1.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-chiavari-chair-maroon"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "40"
+        },
+        {
+          "attribute_code": "description",
+          "value": "Attractive, comfortable resin folding chairs are the perfect seating solution for indoor or outdoor use! These resin folding chairs feature high quality padded seating surfaces and hardware, providing long-lasting comfort and durability. Excellent chair choice for caterers, rental chair stock, wedding and event facilities.\r\n· Metal bracing in seat prevents breakage from rivet\r\n· Double tubing throughout the lower portion of the legs guards against typical frame breakage\r\n· Thick underseat rivets prevent separation\r\n"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/2/022_1_1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/2/022_1_1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Chiavari Chair "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "131",
+            "132",
+            "133"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "sku": "WCC2FR",
+      "name": "Wood Chiavari Chair-fruitwood",
+      "attribute_set_id": 4,
+      "price": 49,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:26:42",
+      "weight": 15,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -28,
+            "category_id": "126"
+          },
+          {
+            "position": -22,
+            "category_id": "130"
+          },
+          {
+            "position": -6,
+            "category_id": "131"
+          },
+          {
+            "position": -6,
+            "category_id": "132"
+          },
+          {
+            "position": -7,
+            "category_id": "133"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 104,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/0/2/024_2.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/0/2/024_2.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "wood-chiavari-chair-fruitwood"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "39"
+        },
+        {
+          "attribute_code": "description",
+          "value": "Attractive, comfortable resin folding chairs are the perfect seating solution for indoor or outdoor use! These resin folding chairs feature high quality padded seating surfaces and hardware, providing long-lasting comfort and durability. Excellent chair choice for caterers, rental chair stock, wedding and event facilities.\r\n· Metal bracing in seat prevents breakage from rivet\r\n· Double tubing throughout the lower portion of the legs guards against typical frame breakage\r\n· Thick underseat rivets prevent separation\r\n"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/0/2/024_2.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/0/2/024_2.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Wood Chiavari Chair"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Wood Chiavari Chair "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "131",
+            "132",
+            "133"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "sku": "Glass Polisher",
+      "name": "Glass Polisher",
+      "attribute_set_id": 4,
+      "price": 599,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:34:27",
+      "weight": 25,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -29,
+            "category_id": "126"
+          },
+          {
+            "position": -1,
+            "category_id": "149"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 105,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/3/1/31c189_5edl._ac_.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/3/1/31c189_5edl._ac_.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "glass-polisher"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "description",
+          "value": "Wine Glass Polisher,GP5 - Five Brush,Warm Air Blow Tube,330 Glass Capacity Per Hour - 120V, 1350W"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/3/1/31c189_5edl._ac_.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Glass Polisher"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/3/1/31c189_5edl._ac_.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Glass Polisher"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/3/1/31c189_5edl._ac_.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Glass Polisher Wine Glass Polisher,GP5 - Five Brush,Warm Air Blow Tube,330 Glass Capacity Per Hour - 120V, 1350W"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "149"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "sku": "Patio Heater",
+      "name": "Patio Heater",
+      "attribute_set_id": 4,
+      "price": 159,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:34:41",
+      "weight": 35,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -30,
+            "category_id": "126"
+          },
+          {
+            "position": -2,
+            "category_id": "149"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 106,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/2/0/2011126145739166.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/2/0/2011126145739166.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "patio-heater"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/2/0/2011126145739166.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Patio Heater"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/2/0/2011126145739166.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Patio Heater"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/2/0/2011126145739166.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Patio Heater "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "149"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "sku": "Popcorn Machine",
+      "name": "Popcorn Machine",
+      "attribute_set_id": 4,
+      "price": 149,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:33:44",
+      "weight": 30,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -31,
+            "category_id": "126"
+          },
+          {
+            "position": -3,
+            "category_id": "149"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 107,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/_/1/_1_.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/_/1/_1_.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "popcorn-machine"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/_/1/_1_.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Popcorn Machine"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/_/1/_1_.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Popcorn Machine"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/_/1/_1_.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Popcorn Machine "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "149"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "sku": "PFCDOLLY",
+      "name": "Plastic Folding Chair Dolly",
+      "attribute_set_id": 4,
+      "price": 79,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:34:53",
+      "weight": 35,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -32,
+            "category_id": "126"
+          },
+          {
+            "position": -2,
+            "category_id": "139"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 108,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/f/o/folding-chair-dolly-cart-12000px.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/f/o/folding-chair-dolly-cart-12000px.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "chair-dolly"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/f/o/folding-chair-dolly-cart-12000px.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "chair Dolly"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/f/o/folding-chair-dolly-cart-12000px.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "chair Dolly"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/f/o/folding-chair-dolly-cart-12000px.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "chair Dolly "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "139"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "sku": "COV-CC",
+      "name": "Chiavari Chair Cover",
+      "attribute_set_id": 4,
+      "price": 1.5,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:36:22",
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -33,
+            "category_id": "126"
+          },
+          {
+            "position": -1,
+            "category_id": "150"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 109,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/f/r/front_angle_preview_2.jpeg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/f/r/front_angle_preview_2.jpeg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "chiavari-chair"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/f/r/front_angle_preview_2.jpeg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Chiavari Chair "
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/f/r/front_angle_preview_2.jpeg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Chiavari Chair "
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/f/r/front_angle_preview_2.jpeg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Chiavari Chair  "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "150"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "sku": "School Chairs-blue",
+      "name": "School Chairs-blue",
+      "attribute_set_id": 4,
+      "price": 19,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:36:36",
+      "weight": 6,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -34,
+            "category_id": "126"
+          },
+          {
+            "position": -2,
+            "category_id": "145"
+          },
+          {
+            "position": -2,
+            "category_id": "146"
+          },
+          {
+            "position": -2,
+            "category_id": "147"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 110,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/c/t/ctgo-school-chair_1_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/c/t/ctgo-school-chair_1_1.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "school-chairs-blue"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "8"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/c/t/ctgo-school-chair_1_1.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "School Chairs"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/c/t/ctgo-school-chair_1_1.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "School Chairs"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "School Chairs "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "145",
+            "146",
+            "147"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "sku": "School Chairs-burgundy",
+      "name": "School Chairs-burgundy",
+      "attribute_set_id": 4,
+      "price": 19,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:36:49",
+      "weight": 6,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -35,
+            "category_id": "126"
+          },
+          {
+            "position": -3,
+            "category_id": "145"
+          },
+          {
+            "position": -3,
+            "category_id": "146"
+          },
+          {
+            "position": -3,
+            "category_id": "147"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 111,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/_/6/_6_.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/_/6/_6_.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "school-chairs-burgundy"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "12"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/_/6/_6_.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "School Chairs"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/_/6/_6_.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "School Chairs"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "School Chairs "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "145",
+            "146",
+            "147"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "sku": "School Chairs-charcoal",
+      "name": "School Chairs-charcoal",
+      "attribute_set_id": 4,
+      "price": 19,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:37:01",
+      "weight": 6,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -36,
+            "category_id": "126"
+          },
+          {
+            "position": -4,
+            "category_id": "145"
+          },
+          {
+            "position": -4,
+            "category_id": "146"
+          },
+          {
+            "position": -4,
+            "category_id": "147"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 112,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/9/0/9018-4084-t.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/9/0/9018-4084-t.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "school-chairs-charcoal"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "41"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/9/0/9018-4084-t.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "School Chairs"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/9/0/9018-4084-t.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "School Chairs"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "School Chairs "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "145",
+            "146",
+            "147"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "sku": "PFT6-7230",
+      "name": "Plastic Folding Tables 6Ft",
+      "attribute_set_id": 4,
+      "price": 79,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:35:09",
+      "weight": 26,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -37,
+            "category_id": "126"
+          },
+          {
+            "position": -6,
+            "category_id": "127"
+          },
+          {
+            "position": -3,
+            "category_id": "137"
+          },
+          {
+            "position": -2,
+            "category_id": "142"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 113,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/2/f/2fed565e7e9f67467dd31367c54ae340.jpg"
+        },
+        {
+          "id": 114,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/p/l/plastic-folding-table-2-600x600_1.jpg"
+        },
+        {
+          "id": 115,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/what-size-tablecloth-for-6-foot-table.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "short_description",
+          "value": "<p>Good Tables</p>"
+        },
+        {
+          "attribute_code": "image",
+          "value": "/2/f/2fed565e7e9f67467dd31367c54ae340.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-folding-tables-white"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "5"
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>6 FT Plastic Folding Tables</p>"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/2/f/2fed565e7e9f67467dd31367c54ae340.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Folding Tables"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/2/f/2fed565e7e9f67467dd31367c54ae340.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Folding Tables"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/2/f/2fed565e7e9f67467dd31367c54ae340.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Folding Tables "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "127",
+            "137",
+            "142"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "sku": "RFC3BR",
+      "name": "Resin Folding Chair-brown",
+      "attribute_set_id": 4,
+      "price": 19,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:27:12",
+      "weight": 10,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -38,
+            "category_id": "126"
+          },
+          {
+            "position": -23,
+            "category_id": "130"
+          },
+          {
+            "position": -15,
+            "category_id": "143"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 116,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/w/e/wechatimg73_2.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/e/wechatimg73_2.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "resin-folding-chair-brown"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "11"
+        },
+        {
+          "attribute_code": "description",
+          "value": "<h3>These resin folding chairs are a perfect fit for most applications. They are made to look identical to traditional wood folding chairs, in fact they have become the standard for garden folding chairs, perhaps the most popular padded wedding chair. Same weight and dimensions, but these chairs are stronger than any wood chair and will last through years of use.</h3>\r\n<h3>These chairs are very easy to clean and maintain, they can be wiped off with a damp rag in between rentals or events.</h3>\r\n<h3>The resin material is 100% virgin polypropylene with UV protectants included in the molding process. This ensures the chairs will not fade or lose their bright appearance over time.</h3>"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/e/wechatimg73_2.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Resin folding chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/e/wechatimg73_2.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Resin folding chair"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/w/e/wechatimg73_2.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Resin folding chair These resin folding chairs are a perfect fit for most applications. They are made to look identical to traditional wood folding chairs, in fact they have become the standard for garden folding chairs, perhaps the most popular padded we"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "sku": "RCC3P-G",
+      "name": "Resin Chiavari Chair-gold",
+      "attribute_set_id": 4,
+      "price": 49,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "virtual",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:26:57",
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -39,
+            "category_id": "126"
+          },
+          {
+            "position": -24,
+            "category_id": "130"
+          },
+          {
+            "position": -7,
+            "category_id": "131"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 117,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/i/m/img_3069_1_1.jpeg"
+        },
+        {
+          "id": 118,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/img_3071_1_1.jpeg"
+        },
+        {
+          "id": 119,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/img_3072_2_1.jpeg"
+        },
+        {
+          "id": 120,
+          "media_type": "image",
+          "label": null,
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/img_3070_1_1.jpeg"
+        },
+        {
+          "id": 121,
+          "media_type": "image",
+          "label": null,
+          "position": 5,
+          "disabled": false,
+          "types": [],
+          "file": "/i/m/img_4524_1.jpeg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "short_description",
+          "value": "<p>abcdefg</p>"
+        },
+        {
+          "attribute_code": "image",
+          "value": "/i/m/img_3069_1_1.jpeg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "resin-chianti-chair-gold"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "0"
+        },
+        {
+          "attribute_code": "color",
+          "value": "26"
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>ABCDEFG</p>"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/i/m/img_3069_1_1.jpeg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Resin Chianti Chair"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/i/m/img_3069_1_1.jpeg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Resin Chianti Chair"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/i/m/img_3069_1_1.jpeg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Resin Chianti Chair ABCDEFG"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "131"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "sku": "PFC3WH",
+      "name": "Plastic folding chair-White",
+      "attribute_set_id": 4,
+      "price": 13,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:35:29",
+      "weight": 7.72,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -40,
+            "category_id": "126"
+          },
+          {
+            "position": -25,
+            "category_id": "130"
+          },
+          {
+            "position": -16,
+            "category_id": "143"
+          },
+          {
+            "position": -1,
+            "category_id": "151"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 122,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/e/8/e84d106e2719ba1100d8fc9b64bd5ea2.jpg"
+        },
+        {
+          "id": 123,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/e/7/e72028088f63c789b5a6487ac3bf4701.jpg"
+        },
+        {
+          "id": 124,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/e/8/e832889574bb415033c4fd3652844e1b.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "short_description",
+          "value": "<table class=\"all magic-10\">\r\n<tbody>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"height: 72px; width: 78.984375px;\" colspan=\"1\" rowspan=\"3\">\r\n<div class=\"magic-11\">Description</div>\r\n</td>\r\n<td style=\"height: 18px; width: 462.015625px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-12\">Steel & Plastic Folding Chair</div>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 36px;\">\r\n<td style=\"height: 36px; width: 462.015625px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-12\">Frame Material: Steel Tube With Powder Coated PP Seat With Square Back, UV-Ultraviolet Protective and Anti-aging.</div>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"height: 18px; width: 462.015625px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-12\">Optional Color Is Available.</div>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 36px;\">\r\n<td style=\"height: 36px; width: 78.984375px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-11\">Chair Dimension</div>\r\n</td>\r\n<td style=\"height: 36px; width: 462.015625px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-12\">45cm*44cm*80.5cm</div>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"height: 18px; width: 78.984375px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-11\">Weight</div>\r\n</td>\r\n<td style=\"height: 18px; width: 462.015625px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-12\">3.5KG /Piece</div>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 18px;\">\r\n<td style=\"height: 18px; width: 78.984375px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-11\">Package</div>\r\n</td>\r\n<td style=\"height: 18px; width: 462.015625px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-12\" data-spm-anchor-id=\"a2700.details.0.i75.29693310x1ac7z\">10 Pieces/Carton</div>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 36px;\">\r\n<td style=\"height: 36px; width: 78.984375px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-11\">Carton Dimension</div>\r\n</td>\r\n<td style=\"height: 36px; width: 462.015625px;\" colspan=\"1\" rowspan=\"1\">\r\n<div class=\"magic-12\" data-spm-anchor-id=\"a2700.details.0.i74.29693310x1ac7z\">98cm*45cm*29.6cm <br />Each Carton G.W:36KG,N.W:35KG</div>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+        },
+        {
+          "attribute_code": "image",
+          "value": "/e/8/e84d106e2719ba1100d8fc9b64bd5ea2.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-folding-chair-blue"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs. Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-marring foot caps to prevent unwanted floor scuffs. The seat and back are made from polypropylene for extra durability. The frame is powder-coated for protection against scratching and wear. These chairs can be conveniently stacked 65 high on our Heavy Duty Multi-Purpose Chair Dolly and still pass through any standard doorway. Chair available in different colour.</p>"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/e/8/e84d106e2719ba1100d8fc9b64bd5ea2.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic folding chair-Blue"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/e/8/e84d106e2719ba1100d8fc9b64bd5ea2.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic folding chair-Blue"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/e/8/e84d106e2719ba1100d8fc9b64bd5ea2.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic folding chair-Blue The CTGO plastic folding chair is super lightweight folding chair. Each chair weighs in at an unbelievable 6.5 lbs. Reinforced with 20 gauge annealed tempered steel. A reverse double-riveted cross-brace adds stability with non-m"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143",
+            "151"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "sku": "RFC3WH",
+      "name": "Resin Folding Chairs-white",
+      "attribute_set_id": 4,
+      "price": 23,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:35:41",
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -41,
+            "category_id": "126"
+          },
+          {
+            "position": -26,
+            "category_id": "130"
+          },
+          {
+            "position": -17,
+            "category_id": "143"
+          },
+          {
+            "position": -4,
+            "category_id": "144"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 125,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/1/a/1a7e57477ca7283b142fdf8fc20f0a6c.jpg"
+        },
+        {
+          "id": 126,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/f/c/fc3a87df1ac2645ffed3e3637b493676_1.jpg"
+        },
+        {
+          "id": 127,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/a/c/acb81f9be96529cbe231c27df9027714_1.jpg"
+        },
+        {
+          "id": 128,
+          "media_type": "image",
+          "label": null,
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/5/f/5f3cc388a1dceb58ef5825881bc61243.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/1/a/1a7e57477ca7283b142fdf8fc20f0a6c.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "resin-folding-chairs-white"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/1/a/1a7e57477ca7283b142fdf8fc20f0a6c.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Resin Folding Chairs-white"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/1/a/1a7e57477ca7283b142fdf8fc20f0a6c.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Resin Folding Chairs-white"
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/1/a/1a7e57477ca7283b142fdf8fc20f0a6c.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Resin Folding Chairs-white "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "130",
+            "143",
+            "144"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "sku": "PFT48",
+      "name": "Plastic Folding Round Table 48\"",
+      "attribute_set_id": 4,
+      "price": 89,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:35:53",
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -7,
+            "category_id": "127"
+          },
+          {
+            "position": -4,
+            "category_id": "137"
+          },
+          {
+            "position": -2,
+            "category_id": "138"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 129,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/e/4/e4fa2ae8325328832acb3264abc5bbad.jpg"
+        },
+        {
+          "id": 130,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/6/9/6990e6acbe15cee8eff7f1878a26fc5a_1.jpg"
+        },
+        {
+          "id": 131,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/7/7/77ee5c8fd5cb733dde36d008b275c5fd.jpg"
+        },
+        {
+          "id": 132,
+          "media_type": "image",
+          "label": null,
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/8/6/862c26d4e77cda9679b0adf878a635c1_1.jpg"
+        },
+        {
+          "id": 133,
+          "media_type": "image",
+          "label": null,
+          "position": 5,
+          "disabled": false,
+          "types": [],
+          "file": "/c/4/c4a4e24f479256270663ec34bb219d28_1.jpg"
+        },
+        {
+          "id": 134,
+          "media_type": "image",
+          "label": null,
+          "position": 6,
+          "disabled": false,
+          "types": [],
+          "file": "/w/t/wtd103_1_2.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/e/4/e4fa2ae8325328832acb3264abc5bbad.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-round-folding-table-48"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/e/4/e4fa2ae8325328832acb3264abc5bbad.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Round Folding Table 48\""
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/e/4/e4fa2ae8325328832acb3264abc5bbad.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Round Folding Table 48\""
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/e/4/e4fa2ae8325328832acb3264abc5bbad.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Round Folding Table 48\" "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "127",
+            "137",
+            "138"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "sku": "PFT72",
+      "name": "Plastic Folding Round Tables 72\"",
+      "attribute_set_id": 4,
+      "price": 129,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "simple",
+      "created_at": "2026-05-08 07:16:08",
+      "updated_at": "2026-05-08 08:36:05",
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -42,
+            "category_id": "126"
+          },
+          {
+            "position": -8,
+            "category_id": "127"
+          },
+          {
+            "position": -5,
+            "category_id": "137"
+          },
+          {
+            "position": -3,
+            "category_id": "138"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 135,
+          "media_type": "image",
+          "label": null,
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail",
+            "swatch_image"
+          ],
+          "file": "/d/2/d202b0015aa8f774bb15294510f3cc21.jpg"
+        },
+        {
+          "id": 136,
+          "media_type": "image",
+          "label": null,
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/1/5/1582adca2cbdb158849fb2c170082afb.jpg"
+        },
+        {
+          "id": 137,
+          "media_type": "image",
+          "label": null,
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/a/3/a35305491e2de1152832f264f646d7a8.jpg"
+        },
+        {
+          "id": 138,
+          "media_type": "image",
+          "label": null,
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/w/t/wtd103_1_3.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/d/2/d202b0015aa8f774bb15294510f3cc21.jpg"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "plastic-round-folding-tables-72"
+        },
+        {
+          "attribute_code": "gift_message_available",
+          "value": "2"
+        },
+        {
+          "attribute_code": "color",
+          "value": "4"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/d/2/d202b0015aa8f774bb15294510f3cc21.jpg"
+        },
+        {
+          "attribute_code": "meta_title",
+          "value": "Plastic Round Folding Tables 72\""
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/d/2/d202b0015aa8f774bb15294510f3cc21.jpg"
+        },
+        {
+          "attribute_code": "meta_keyword",
+          "value": "Plastic Round Folding Tables 72\""
+        },
+        {
+          "attribute_code": "swatch_image",
+          "value": "/d/2/d202b0015aa8f774bb15294510f3cc21.jpg"
+        },
+        {
+          "attribute_code": "meta_description",
+          "value": "Plastic Round Folding Tables 72\" "
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "126",
+            "127",
+            "137",
+            "138"
+          ]
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        }
+      ]
+    }
+  ],
+  "search_criteria": {
+    "filter_groups": [],
+    "page_size": 100,
+    "current_page": 1
+  },
+  "total_count": 44
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Replacement Cushion for Titan Series White Wood Folding Chairs",
+  "sku": "CWFC5WH",
+  "brand": "Titan Event Furniture™",
+  "price": "$3.39",
+  "features": [
+    "This is a replacement seat cushion for our Wood Folding Chairs.Have a tear in the seat on some of your chairs?",
+    "Get them looking like new again with replacement seat cushions.",
+    "All you have to do is pop out your existing cushions and pop in the replacement cushion.",
+    "Simple as that.",
+    "Hardware not included."
+  ],
+  "specifications": {
+    "Special Order Item": "No",
+    "Can ship FedEx?": "Yes",
+    "Country of Manufacture": "China",
+    "Brand": "Titan Event Furniture™",
+    "Commercial-Grade?": "Yes",
+    "Padded Seat": "Yes",
+    "Overall Height": "1''",
+    "Overall Width": "14''",
+    "Overall Length / Depth": "13''",
+    "Ships Assembled?": "Yes",
+    "Has Arms": "No",
+    "California Residents": "Click here for Proposition 65 warning"
+  },
+  "faq": [],
+  "defaultColor": "White",
+  "defaultGallery": [
+    "https://www.eventstable.com/media/catalog/product/w/h/white-cushion-wood-folding-chair.jpeg",
+    "https://www.eventstable.com/media/catalog/product/c/w/cwfc5wh2000px.jpg",
+    "https://www.eventstable.com/media/catalog/product/r/e/replacement-cushion-white-resin_1_2.jpg"
+  ],
+  "colors": [
+    {
+      "label": "Black",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/b/l/black.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/j/e/jez8__be.jpeg",
+        "https://www.eventstable.com/media/catalog/product/c/w/cwfc5bk_2.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/e/replacement-cushion-white-resin_1_2.jpg"
+      ]
+    },
+    {
+      "label": "Ivory",
+      "swatchImage": "https://www.eventstable.com/media/attribute/swatch/swatch_thumb/110x90/i/v/ivoryy.png",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/i/v/ivory-cushion-chair.jpeg",
+        "https://www.eventstable.com/media/catalog/product/t/h/thumbnail_image0.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/e/replacement-cushion-white-resin_1_2.jpg"
+      ]
+    },
+    {
+      "label": "White",
+      "swatchImage": "#ffffff",
+      "gallery": [
+        "https://www.eventstable.com/media/catalog/product/w/h/white-cushion-wood-folding-chair.jpeg",
+        "https://www.eventstable.com/media/catalog/product/c/w/cwfc5wh2000px.jpg",
+        "https://www.eventstable.com/media/catalog/product/r/e/replacement-cushion-white-resin_1_2.jpg"
+      ]
+    }
+  ]
+}

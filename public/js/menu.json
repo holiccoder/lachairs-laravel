@@ -1,0 +1,150 @@
+[
+  {
+    "label": "Chairs",
+    "slug": "chairs",
+    "children": [
+      {
+        "label": "Folding Chairs",
+        "slug": "folding-chairs",
+        "children": [
+          {
+            "label": "Plastic Folding Chairs",
+            "slug": "plastic-folding-chairs"
+          },
+          {
+            "label": "Wood Folding Chairs",
+            "slug": "wood-folding-chairs"
+          },
+          {
+            "label": "Clear Folding Chairs",
+            "slug": "clear-folding-chairs"
+          },
+          {
+            "label": "Bamboo Folding Chairs",
+            "slug": "bamboo-folding-chairs"
+          },
+          {
+            "label": "Resin Folding Chairs",
+            "slug": "resin-folding-chairs"
+          },
+          {
+            "label": "Metal Folding Chairs",
+            "slug": "metal-folding-chairs"
+          },
+          {
+            "label": "Folding Chairs Cushions & Covers",
+            "slug": "folding-chairs-cushions-and-covers"
+          },
+          {
+            "label": "Folding Chairs Parts & Dollies",
+            "slug": "folding-chairs-parts-and-dollies"
+          }
+        ]
+      },
+      {
+        "label": "Stacking Chairs",
+        "slug": "stacking-chairs",
+        "children": [
+          {
+            "label": "Resin Chiavari Chairs",
+            "slug": "resin-chiavari-chairs"
+          },
+          {
+            "label": "Resin Cross Back Chairs",
+            "slug": "resin-cross-back-chairs"
+          },
+          {
+            "label": "Wood Chiavari Chairs",
+            "slug": "wood-chiavari-chairs"
+          },
+          {
+            "label": "Wood Cross Back Chairs",
+            "slug": "wood-cross-back-chairs"
+          },
+          {
+            "label": "Throne Chairs",
+            "slug": "throne-chairs"
+          },
+          {
+            "label": "Banquet Chairs",
+            "slug": "banquet-chairs"
+          },
+          {
+            "label": "Metal Chairs",
+            "slug": "metal-chairs"
+          },
+          {
+            "label": "Stacking Chairs Cushions & Covers",
+            "slug": "stacking-chairs-cushions-and-covers"
+          },
+          {
+            "label": "Stacking Chairs Parts & Dollies",
+            "slug": "stacking-chairs-parts-and-dollies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Tables",
+    "slug": "tables",
+    "children": [
+      {
+        "label": "Plastic Tables",
+        "slug": "plastic-tables",
+        "children": [
+          {
+            "label": "Plastic Rectangle Tables",
+            "slug": "plastic-rectangle-tables"
+          },
+          {
+            "label": "Plastic Round Tables",
+            "slug": "plastic-round-tables"
+          }
+        ]
+      },
+      {
+        "label": "Wood Tables",
+        "slug": "wood-tables",
+        "children": [
+          {
+            "label": "Wood Rectangle Tables",
+            "slug": "wood-rectangle-tables"
+          },
+          {
+            "label": "Wood Round Tables",
+            "slug": "wood-round-tables"
+          },
+          {
+            "label": "Farm Tables",
+            "slug": "farm-tables"
+          },
+          {
+            "label": "Cocktail Tables",
+            "slug": "cocktail-tables"
+          }
+        ]
+      },
+      {
+        "label": "Tablecloths & Covers",
+        "slug": "tablecloths-and-covers"
+      },
+      {
+        "label": "Table Parts & Dollies",
+        "slug": "table-parts-and-dollies"
+      }
+    ]
+  },
+  {
+    "label": "Kids Chairs & Tables",
+    "slug": "kids-chairs-and-tables"
+  },
+  {
+    "label": "Chairs Covers & Cushions & Tablecloths",
+    "slug": "chairs-covers-and-cushions-and-tablecloths"
+  },
+  {
+    "label": "Dollies & Parts",
+    "slug": "dollies-and-parts"
+  }
+]
