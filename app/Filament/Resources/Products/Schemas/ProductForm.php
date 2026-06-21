@@ -118,12 +118,12 @@ class ProductForm
                             ->icon('heroicon-o-photo')
                             ->schema([
                                 Section::make('主图')
-                                    ->description('保存到 `public` 磁盘 (storage/app/public/images/products/)，通过 /storage/images/products/ 访问，需要先执行 `php artisan storage:link`。')
+                                    ->description('保存到 public/images/products/，通过 /images/products/ 直接访问（无需 storage:link）。')
                                     ->schema([
                                         FileUpload::make('image')
                                             ->label('主图')
                                             ->image()
-                                            ->disk('public')
+                                            ->disk('public_root')
                                             ->directory('images/products')
                                             ->visibility('public')
                                             ->maxSize(5120)
@@ -131,7 +131,7 @@ class ProductForm
                                     ]),
 
                                 Section::make('图库')
-                                    ->description('额外的图库图片，保存到 `public` 磁盘，通过 /storage/images/products/ 访问。')
+                                    ->description('额外的图库图片，保存到 public/images/products/，通过 /images/products/ 直接访问。')
                                     ->schema([
                                         FileUpload::make('gallery')
                                             ->label('图库')
@@ -140,7 +140,7 @@ class ProductForm
                                             ->reorderable()
                                             ->appendFiles()
                                             ->panelLayout('grid')
-                                            ->disk('public')
+                                            ->disk('public_root')
                                             ->directory('images/products')
                                             ->visibility('public')
                                             ->maxSize(5120)
@@ -215,7 +215,7 @@ class ProductForm
                                             ->reorderable()
                                             ->appendFiles()
                                             ->panelLayout('grid')
-                                            ->disk('public')
+                                            ->disk('public_root')
                                             ->directory('images/products')
                                             ->visibility('public')
                                             ->maxSize(5120)

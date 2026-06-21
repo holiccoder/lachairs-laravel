@@ -47,6 +47,21 @@ return [
             'report' => false,
         ],
 
+        // Maps directly onto the project's public/ directory (no storage:link
+        // needed). Product images are written here by ScrapedProductsSeeder
+        // (public_path('images/products')) and served by the storefront as
+        // /images/products/...; the Filament FileUpload fields use this disk so
+        // their previews and new uploads line up with where the files actually
+        // live. url '/' makes url('images/products/x.jpg') => '/images/products/x.jpg'.
+        'public_root' => [
+            'driver' => 'local',
+            'root' => public_path(),
+            'url' => '/',
+            'visibility' => 'public',
+            'throw' => false,
+            'report' => false,
+        ],
+
         's3' => [
             'driver' => 's3',
             'key' => env('AWS_ACCESS_KEY_ID'),
